@@ -715,7 +715,7 @@ and decide upon the winners.</P>
     </h2>
     <div id="flush-collapseselection" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P STYLE="margin-bottom: 0in"><IMG SRC="/images/2026/selection2.png" style="width:100%"></P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="/images/2026/selection3.png?id=1" style="width:100%"></P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 </div></div></div></div>
@@ -912,13 +912,13 @@ and decide upon the winners.</P>
   </div>
   <p></p>
   
-<p></p>
+<!-- <p></p>
 <h5>To view ISGF Innovation Awards 2026 Winners, please visit - <a href="https://isuw.in/winners-innovation-awards-2026" target="_blank" rel="noopener">https://isuw.in/winners-innovation-awards-2026</a></h5>
 <h5>To view ISGF Innovation Awards 2025 Winners, please visit - <a href="https://isuw.in/winners-innovation-awards-2025" target="_blank" rel="noopener">https://isuw.in/winners-innovation-awards-2025</a></h5>
 <h5>To view ISGF Innovation Awards 2024 Winners, please visit - <a href="https://isuw.in/winners-innovation-awards-2024/" target="_blank" rel="noopener">https://isuw.in/winners-innovation-awards-2024/</a></h5>
 <h5>To view ISGF Innovation Awards 2023 Winners, please visit - <a href="https://isuw.in/winners-innovation-awards-2023/" target="_blank" rel="noopener">https://isuw.in/winners-innovation-awards-2023/</a></h5>
 <h5>To view ISGF Innovation Awards 2022 Winners, please visit - <a href="https://www.isuw.in/isgf-innovation-awards-2022/" target="_blank" rel="noopener">https://www.isuw.in/isgf-innovation-awards-2022/</a></h5>
-<h5>To view ISGF Innovation Awards 2021 Winners, please visit - <a href="https://www.isuw.in/isgf-innovation-awards-2021/" target="_blank" rel="noopener">https://www.isuw.in/isgf-innovation-awards-2021/</a></h5>
+<h5>To view ISGF Innovation Awards 2021 Winners, please visit - <a href="https://www.isuw.in/isgf-innovation-awards-2021/" target="_blank" rel="noopener">https://www.isuw.in/isgf-innovation-awards-2021/</a></h5> -->
 
 </body>
 </html>
