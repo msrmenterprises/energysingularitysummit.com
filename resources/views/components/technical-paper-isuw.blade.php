@@ -1410,13 +1410,13 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'>To be uploaded</span></p>
+  lang=EN-IN style='color:black'>Compendium of Technical Papers India Smart Utility Week 2026</span></p>
   </td>
   <td width=208 nowrap style='width:155.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'>To be uploaded</span></p>
+  line-height:normal'><span lang=EN-IN style='color:black'>2026 Published Technical Paper</span></p>
   </td>
  </tr>
 
@@ -1442,13 +1442,13 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'>To be uploaded</span></p>
+  lang=EN-IN style='color:black'>Compendium of Technical Papers India Smart Utility Week 2025</span></p>
   </td>
   <td width=208 nowrap style='width:155.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'>To be uploaded</span></p>
+  line-height:normal'><span lang=EN-IN style='color:black'>2025 Published Technical Paper</span></p>
   </td>
  </tr>
 
