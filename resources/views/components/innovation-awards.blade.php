@@ -57,10 +57,12 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT ><b>India Smart Grid Forum (ISGF) invites Public and Private Utilities, Urban Local Bodies, Technology Companies, EPC Contractors, Start-ups, Incubators, Researchers, Municipalities, Funding Agencies and Academia to submit their nominations.</b></FONT></P>
 <p ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">In year 2026, 235 projects submitted the nominations and out of which 55 projects were conferred with ISGF Innovation Award and 8 projects were awarded with Certificate of Merit. List of winners will be available at following link: <a href="https://isuw.in/winners-innovation-awards-2026" target="_blank">https://isuw.in/winners-innovation-awards-2026</a></p>
 <h4 style="color: green;"><strong>Refer important links below for further details:</h4>
-<p></p><li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
+<p></p>
+<ul style="margin-left:15px">
+<li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
 <li>About The Energy Singularity Summit (TESS) 2027: <a href="https://www.energysingularitysummit.com/" target="_blank">https://www.energysingularitysummit.com/</a></li>
 <li>Glimpses of Awards Ceremony 2026: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720332670212/" target="_blank">https://www.flickr.com/photos/indiasmartgridforum/albums/72177720332670212/</a> </li></p>
-
+</ul>
 <div class="accordion accordion-flush" id="accordionFlushExample"> 
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
