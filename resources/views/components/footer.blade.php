@@ -85,7 +85,7 @@ color:#EF7B00;
                </div>
                   <div class="col-lg-3">
    <div class="widget">
-      <h6>Connect with ISUW</h6>
+      <h6>Connect with TESS</h6>
       <ul class="social-links" style="list-style:none; padding:0;">
          <li style="margin-bottom:10px;">
             <a href="https://www.linkedin.com/company/india-smart-utility-week/posts/?feedView=all" target="_blank" style="color:#0A66C2; text-decoration:none;">
