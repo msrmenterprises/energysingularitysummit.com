@@ -11,7 +11,7 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="k_cheading">
-	<img src="https://www.isuw.in/public/uploads/images/themes.PNG" class="center" style="width:800px; height:485px;"></img>
+	<img src="https://energysingularitysummit.com/public/uploads/images/themes.PNG" class="center" style="width:800px; height:485px;"></img>
 	</div>
 <!--<h5 style="text-align: center;"><FONT COLOR="#00b050"><B>ISUW
 2021: CONFERENCE THEMATIC SESSIONS</B></FONT></h5>-->
