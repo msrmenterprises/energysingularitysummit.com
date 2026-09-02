@@ -15,7 +15,7 @@
 
 <p style="text-align:center; font-size:16px;"><span class="getstartedd" style="display:inline-block; cursor:not-allowed; opacity:0.65; pointer-events:none;">Download Agenda</span></p>
 
-<iframe src="images/2026/TheEnergySingularitySummitTESSBrochure.pdf" height="600" width="150" title="Agenda" style="width: 800px;text-align: center;"></iframe><p></p>
+<!-- <iframe src="images/2026/TheEnergySingularitySummitTESSBrochure.pdf" height="600" width="150" title="Agenda" style="width: 800px;text-align: center;"></iframe><p></p> -->
 </div>
 </div>
 
