@@ -6,7 +6,7 @@
 <p></p>
 
 <div class="k_cheading">
-		<h1>TESS 2026<span class="k_greencolor"> Agenda</span> </h1>
+		<h1>TESS 2026<span class="k_greencolor"> Agenda1</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <!--<h4 style="color: green;margin-left: 58px;"><a href="https://events.firstviewgroup.com/AfricaRooftopSolarCongress2021#/agenda?lang=en" target="_blank">For Agenda Click here </a></h4>-->
