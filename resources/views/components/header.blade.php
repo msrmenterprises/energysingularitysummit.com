@@ -108,7 +108,7 @@
                   </ul>
                </li>
                <li><a class="getstarted scrollto" href="register">Register Now</a></li>
-               <li><a class="getstarted scrollto" href="https://www.isuw.in/conference-agenda-and-program" target="_blank">TESS AGENDA</a></li>
+               <li><a class="getstarted scrollto" href="https://energysingularitysummit.com/conference-agenda-and-program" target="_blank">TESS AGENDA</a></li>
 			   <!--<li style="color: green;"><a href="https://isuw.virtualmnc.com/" class="getstarted scrollto ">Attend Live Event</a></li>-->
             </ul> 
             <!-- .navbar -->
