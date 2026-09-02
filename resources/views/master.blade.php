@@ -51,7 +51,7 @@ a:hover {
       <!-- <link href="/css/bootstrap.min.css" rel="stylesheet">
       <link href="/css/style.css" rel="stylesheet">
       <link href="/css/slider.css" rel="stylesheet"> -->
-      <title>India Smart Utility Week </title>
+      <title>The Energy Singularity Summit</title>
 	  <link rel="shortcut icon" href="/public/images/ISUW Logo 2022.jpg" type="/public/images/ISUW Logo 2022.jpg"/>
     </head>
     <body class="antialiased">
