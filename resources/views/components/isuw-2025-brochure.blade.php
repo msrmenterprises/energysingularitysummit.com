@@ -8,12 +8,12 @@
 
 <!--<h2 style="color: #f60;margin-left: 55px;">ISUW 2021 Brochure</h2>-->
 <div class="k_cheading">
-		<h1>ISUW 2026<span class="k_greencolor"> Brochure</span> </h1>
+		<h1>TESS 2027<span class="k_greencolor"> Brochure</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
-	  <p style="text-align:center; font-size:16px;"><a href="/public/images/ISUW2026BrochureLS.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
-<iframe src="https://www.isuw.in/public/images/ISUW2026Brochure.pdf?id=2" height="600" width="150" title="Iframe Example" style="
+	  <p style="text-align:center; font-size:16px;"><a href="/public/images/TheEnergySingularitySummit2027TESSBrochureLS.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
+<iframe src="https://www.energysingularitysummit.com/public/images/TheEnergySingularitySummit2027TESSBrochure.pdf?id=2" height="600" width="150" title="Iframe Example" style="
     width: 800px;
     text-align: center;
 
