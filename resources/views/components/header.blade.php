@@ -37,7 +37,7 @@
             <ul class="">
                <li><a class="nav-link scrollto active ps-0" href="/">HOME</a></li>
 			    <li class="dropdown">
-                  <a href="/isuw-2021" class=" " data-bs-toggle="dropdown"><span>ABOUT ISUW</span> <i class="fa fa-chevron-down"></i></a>
+                  <a href="/isuw-2021" class=" " data-bs-toggle="dropdown"><span>ABOUT TESS</span> <i class="fa fa-chevron-down"></i></a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 				     <li><a href="/introduction" target="_blank">Introduction</a></li>
 					 <li><a href="/key-highlights" target="_blank">Key Highlights</a></li>
@@ -51,9 +51,9 @@
 			     <li class="dropdown">
                   <a href="#" class=" " data-bs-toggle="dropdown"><span>PROGRAM</span> <i class="fa fa-chevron-down"></i></a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                     <li><a href="/conference-themes" target="_blank">ISUW Conference Program and Themes</a></li> 
+                     <li><a href="/conference-themes" target="_blank">TESS Conference Program and Themes</a></li> 
                       <li><a href="/conference-agenda-and-program" target="_blank">Conference Agenda and Program</a></li>
-                      <li><a href="/technical-paper-isuw" target="_blank">ISUW Technical Papers</a></li>
+                      <li><a href="/technical-paper-isuw" target="_blank">TESS Technical Papers</a></li>
                       <li><a href="/innovation-awards" target="_blank">Innovation Awards</a></li>
                        <li><a href="/technical-tours" target="_blank">Technical Tours </a></li>
                        <li><a href="/master-classes" target="_blank">Master Classes</a></li>
@@ -96,7 +96,7 @@
 					  <li><a href="/video-gallery" target="_blank">Videos</a></li>
 					   <li><a href="/ISUW-in-media" target="_blank">Media Coverage</a></li>
 					    <li><a href="/press-release" target="_blank">Press Release</a></li>
-					    <li><a href="/podcast" target="_blank">ISUW Podcast</a></li>
+					    <li><a href="/podcast" target="_blank">TESS Podcast</a></li>
                   </ul>
                </li>
                
