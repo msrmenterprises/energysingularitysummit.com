@@ -12,7 +12,7 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
-	  <p style="text-align:center; font-size:16px;"><a href="https://www.energysingularitysummit.com/public/images/TheEnergySingularitySummit2027TESSBrochureLS.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
+	  <p style="text-align:center; font-size:16px;"><a href="/images/2026/TheEnergySingularitySummitTESSBrochure.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
 <iframe src="https://www.energysingularitysummit.com/public/images/TheEnergySingularitySummit2027TESSBrochure.pdf?id=2" height="600" width="150" title="Iframe Example" style="
     width: 800px;
     text-align: center;
