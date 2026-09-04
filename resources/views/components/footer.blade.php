@@ -181,6 +181,6 @@ color:#EF7B00;
     <a href="https://energysingularitysummit.com/conference-agenda-and-program" class="buttonbrochuree" target="_blank">TESS Agenda</a>
 	</div>
 	<div class="k_fixed_bro">
-    <a href="https://energysingularitysummit.com/public/images/ISUW2026Brochure.pdf?id=2" class="buttonbrochure" target="_blank">Download Brochure</a>
+       <a href="https://www.energysingularitysummit.com/public/images/TheEnergySingularitySummit2027TESSBrochure.pdf?id=2" class="buttonbrochure" target="_blank">Download Brochure</a>
 	</div>
       </section>
