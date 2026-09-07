@@ -293,9 +293,9 @@
                         </div>
                         <div class="col-lg-3">
                            <div class="spot-div">
-                              <a href="https://www.isuw.in/conference-agenda-and-program" target="_blank">
+                              <a href="https://energysingularitysummit.com/conference-agenda-and-program" target="_blank">
                                  <img src="images/spot03.png" class="logo-img " alt="...">
-                                 <h3>ISUW <br/>
+                                 <h3>TESS <br/>
                                     Agenda
                                  </h3>
                               </a>
