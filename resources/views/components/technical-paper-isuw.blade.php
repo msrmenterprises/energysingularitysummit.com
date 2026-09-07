@@ -76,7 +76,7 @@
  <div class="row justify-content-left ">
 <p></p>
 <div class="k_cheading">
-		<h1>THE ENERGY SINGULARITY SUMMIT (TESS)<span class="k_greencolor"> TECHNICAL PAPERS</span></h1>
+    <h1>THE ENERGY SINGULARITY SUMMIT (TESS)<br/><span class="k_greencolor">TECHNICAL PAPERS</span></h1>
 		<img src="/public/uploads/images/kborder_bottom.PNG" alt=""> 
 	</div>
 <!--	<p><b><marqee>We thank all the Authors for the overwhelming response for your Technical Paper Abstract Submission. As the number of Technical Papers Abstracts received is very high, we shall be announcing the results for the next round of Full Paper Submission by 15th November 2023.</marqee></b></p>
