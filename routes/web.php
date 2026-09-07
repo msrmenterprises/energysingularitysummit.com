@@ -205,9 +205,11 @@ Route::get('/admin', function () {
       return view('/components/technical-paper-isuw-2022');
  });
  
- Route::get('/technical-paper-isuw', function () {
+ Route::get('/technical-papers', function () {
       return view('/components/technical-paper-isuw');
  });
+
+ Route::redirect('/technical-paper-isuw', '/technical-papers', 301);
 
 //  Route::get('/isuw-2022-presentations', function () {
 //       return view('/components/isuw-2022-presentations');

@@ -53,7 +53,7 @@
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                      <li><a href="/conference-themes" target="_blank">TESS Conference Program and Themes</a></li> 
                       <li><a href="/conference-agenda-and-program" target="_blank">Conference Agenda and Program</a></li>
-                      <li><a href="/technical-paper-isuw" target="_blank">TESS Technical Papers</a></li>
+                      <li><a href="/technical-papers" target="_blank">TESS Technical Papers</a></li>
                       <li><a href="/innovation-awards" target="_blank">Innovation Awards</a></li>
                        <li><a href="/technical-tours" target="_blank">Technical Tours </a></li>
                        <li><a href="/master-classes" target="_blank">Master Classes</a></li>
