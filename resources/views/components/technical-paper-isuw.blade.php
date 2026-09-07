@@ -106,7 +106,7 @@
                 <thead>
                   <tr>
                     <th>S. No*</th>
-                    <th>Theme of Technical Paper</th>
+                    <th>Theme</th>
                   </tr>
                 </thead>
                 <tbody>
