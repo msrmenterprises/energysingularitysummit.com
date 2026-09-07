@@ -61,13 +61,9 @@
           margin-bottom: 2px;
         }
 
-        .themes-table .theme-list {
+        .themes-table .theme-focus-text {
           margin: 0;
-          padding-left: 20px;
-        }
-
-        .themes-table .theme-list li {
-          margin: 0;
+          font-weight: 400;
         }
 
         @media (max-width: 768px) {
@@ -114,32 +110,32 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <tr><td class="sr-no">1</td><td><div class="theme-title">AI and Digital Superintelligence for Grid Management</div><ul class="theme-list"><li><strong>Demand Forecasting, Autonomous Grid Control, Digital Twins and Predictive Maintenance</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">2</td><td><div class="theme-title">Smart Microgrids and Resilient Power Systems</div><ul class="theme-list"><li><strong>For Critical Infrastructure and AI</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">3</td><td><div class="theme-title">Demand-Side Flexibility</div><ul class="theme-list"><li><strong>Smart Meters, Time-of-Use (TOU) Tariffs, Vehicle-to-Grid (V2G) and AI-Managed Smart Buildings and Campuses</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">4</td><td><div class="theme-title">The Cooling Challenge</div><ul class="theme-list"><li><strong>Cooling as a Service through District Cooling Systems (DCS) and Enhanced Flexibility for the Distribution Grid</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">5</td><td><div class="theme-title">New Architecture and Control Systems for the Green Grid</div><ul class="theme-list"><li><strong>With Multidirectional Power Flows</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">6</td><td><div class="theme-title">Digital Energy Grids</div><ul class="theme-list"><li><strong>Where Customers (and Smart Appliance/EV/Drone/Robot) can Buy Electricity from the Greenest and Cheapest Source through P2P Transactions</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">7</td><td><div class="theme-title">New Loads and New Customers</div><ul class="theme-list"><li><strong>GW Scale AI Data Centres, MW Scale EV Charging Stations, Billions of Humanoid Robots and Trillions of AI Agents</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">8</td><td><div class="theme-title">Grid-Scale and Long-Duration Energy Storage</div><ul class="theme-list"><li><strong>LFP Batteries, Pumped Hydro, Flow Batteries, Thermal Storage, Iron-Air and Gravity-Based Energy Storage Technologies</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">9</td><td><div class="theme-title">Nuclear Renaissance</div><ul class="theme-list"><li><strong>Small Modular Reactors (SMRs) for Firm, Dispatchable, Carbon-Free Power</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">10</td><td><div class="theme-title">Offshore and Floating Wind</div><ul class="theme-list"><li><strong>Unlocking New Resource Frontiers</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">11</td><td><div class="theme-title">Green Hydrogen</div><ul class="theme-list"><li><strong>Long-Duration Storage and Decarbonisation of Hard-to-Abate Industries</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">12</td><td><div class="theme-title">Enabling Policies, Regulations and Skilled Workforce</div><ul class="theme-list"><li><strong>With Gender Balance for the Energy Singularity Era</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">13</td><td><div class="theme-title">“Everything to the Grid” Energy Systems</div><ul class="theme-list"><li><strong>For the “Reimagined Grid”</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">14</td><td><div class="theme-title">Advanced Transmission Infrastructure</div><ul class="theme-list"><li><strong>HVDC, FACTS, Grid-Forming Inverters and Superconducting Cables</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">15</td><td><div class="theme-title">Powering Data Centres</div><ul class="theme-list"><li><strong>On Land, in Orbit and under the Sea</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">16</td><td><div class="theme-title">Electric Mobility Frontiers</div><ul class="theme-list"><li><strong>Wired and Wireless Charging of EVs, Drones, Humanoid Robots and Flying Cars</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">17</td><td><div class="theme-title">Agentic AI-Based VPP-ESS Interconnections</div><ul class="theme-list"><li><strong>Grid Flexibility through VPP-ESS Interconnections</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">18</td><td><div class="theme-title">Room-Temperature Superconductors</div><ul class="theme-list"><li><strong>AI-Driven Materials Discovery</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">19</td><td><div class="theme-title">Next-Generation Solar</div><ul class="theme-list"><li><strong>Perovskites, Bifacial Modules and Agrivoltaics</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">20</td><td><div class="theme-title">Nuclear Fusion</div><ul class="theme-list"><li><strong>AI-Accelerated Path to Commercial Fusion Power</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">21</td><td><div class="theme-title">Advanced Power Electronics</div><ul class="theme-list"><li><strong>Wide-Bandgap Semiconductors (SiC and GaN) for a More Efficient Energy Conversion Chain</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">22</td><td><div class="theme-title">Quantum Technologies and Quantum Algorithms</div><ul class="theme-list"><li><strong>For Power Flow Control and Optimization in Real-Time</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">23</td><td><div class="theme-title">Nature-Inspired and Synthetic Energy Systems</div><ul class="theme-list"><li><strong>Biomimicry and Artificial Photosynthesis</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">24</td><td><div class="theme-title">Cyber Security</div><ul class="theme-list"><li><strong>Quantum Safe and Lattice-Based Cryptography</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">25</td><td><div class="theme-title">Emerging Space Technologies</div><ul class="theme-list"><li><strong>Architecture and Energy Systems for Colonising the Moon and Mars, and the Autonomous and Zero Pollution Mobility</strong></li></ul></td></tr>
-                  <tr><td class="sr-no">26</td><td><div class="theme-title">Mobility and Transport Transformation</div><ul class="theme-list"><li><strong>Autonomous and Zero Emission Vehicles</strong></li></ul></td></tr>
+                  <tr><td class="sr-no">1</td><td><div class="theme-title">AI and Digital Superintelligence for Grid Management</div><p class="theme-focus-text">Demand Forecasting, Autonomous Grid Control, Digital Twins and Predictive Maintenance</p></td></tr>
+                  <tr><td class="sr-no">2</td><td><div class="theme-title">Smart Microgrids and Resilient Power Systems</div><p class="theme-focus-text">For Critical Infrastructure and AI</p></td></tr>
+                  <tr><td class="sr-no">3</td><td><div class="theme-title">Demand-Side Flexibility</div><p class="theme-focus-text">Smart Meters, Time-of-Use (TOU) Tariffs, Vehicle-to-Grid (V2G) and AI-Managed Smart Buildings and Campuses</p></td></tr>
+                  <tr><td class="sr-no">4</td><td><div class="theme-title">The Cooling Challenge</div><p class="theme-focus-text">Cooling as a Service through District Cooling Systems (DCS) and Enhanced Flexibility for the Distribution Grid</p></td></tr>
+                  <tr><td class="sr-no">5</td><td><div class="theme-title">New Architecture and Control Systems for the Green Grid</div><p class="theme-focus-text">With Multidirectional Power Flows</p></td></tr>
+                  <tr><td class="sr-no">6</td><td><div class="theme-title">Digital Energy Grids</div><p class="theme-focus-text">Where Customers (and Smart Appliance/EV/Drone/Robot) can Buy Electricity from the Greenest and Cheapest Source through P2P Transactions</p></td></tr>
+                  <tr><td class="sr-no">7</td><td><div class="theme-title">New Loads and New Customers</div><p class="theme-focus-text">GW Scale AI Data Centres, MW Scale EV Charging Stations, Billions of Humanoid Robots and Trillions of AI Agents</p></td></tr>
+                  <tr><td class="sr-no">8</td><td><div class="theme-title">Grid-Scale and Long-Duration Energy Storage</div><p class="theme-focus-text">LFP Batteries, Pumped Hydro, Flow Batteries, Thermal Storage, Iron-Air and Gravity-Based Energy Storage Technologies</p></td></tr>
+                  <tr><td class="sr-no">9</td><td><div class="theme-title">Nuclear Renaissance</div><p class="theme-focus-text">Small Modular Reactors (SMRs) for Firm, Dispatchable, Carbon-Free Power</p></td></tr>
+                  <tr><td class="sr-no">10</td><td><div class="theme-title">Offshore and Floating Wind</div><p class="theme-focus-text">Unlocking New Resource Frontiers</p></td></tr>
+                  <tr><td class="sr-no">11</td><td><div class="theme-title">Green Hydrogen</div><p class="theme-focus-text">Long-Duration Storage and Decarbonisation of Hard-to-Abate Industries</p></td></tr>
+                  <tr><td class="sr-no">12</td><td><div class="theme-title">Enabling Policies, Regulations and Skilled Workforce</div><p class="theme-focus-text">With Gender Balance for the Energy Singularity Era</p></td></tr>
+                  <tr><td class="sr-no">13</td><td><div class="theme-title">“Everything to the Grid” Energy Systems</div><p class="theme-focus-text">For the “Reimagined Grid”</p></td></tr>
+                  <tr><td class="sr-no">14</td><td><div class="theme-title">Advanced Transmission Infrastructure</div><p class="theme-focus-text">HVDC, FACTS, Grid-Forming Inverters and Superconducting Cables</p></td></tr>
+                  <tr><td class="sr-no">15</td><td><div class="theme-title">Powering Data Centres</div><p class="theme-focus-text">On Land, in Orbit and under the Sea</p></td></tr>
+                  <tr><td class="sr-no">16</td><td><div class="theme-title">Electric Mobility Frontiers</div><p class="theme-focus-text">Wired and Wireless Charging of EVs, Drones, Humanoid Robots and Flying Cars</p></td></tr>
+                  <tr><td class="sr-no">17</td><td><div class="theme-title">Agentic AI-Based VPP-ESS Interconnections</div><p class="theme-focus-text">Grid Flexibility through VPP-ESS Interconnections</p></td></tr>
+                  <tr><td class="sr-no">18</td><td><div class="theme-title">Room-Temperature Superconductors</div><p class="theme-focus-text">AI-Driven Materials Discovery</p></td></tr>
+                  <tr><td class="sr-no">19</td><td><div class="theme-title">Next-Generation Solar</div><p class="theme-focus-text">Perovskites, Bifacial Modules and Agrivoltaics</p></td></tr>
+                  <tr><td class="sr-no">20</td><td><div class="theme-title">Nuclear Fusion</div><p class="theme-focus-text">AI-Accelerated Path to Commercial Fusion Power</p></td></tr>
+                  <tr><td class="sr-no">21</td><td><div class="theme-title">Advanced Power Electronics</div><p class="theme-focus-text">Wide-Bandgap Semiconductors (SiC and GaN) for a More Efficient Energy Conversion Chain</p></td></tr>
+                  <tr><td class="sr-no">22</td><td><div class="theme-title">Quantum Technologies and Quantum Algorithms</div><p class="theme-focus-text">For Power Flow Control and Optimization in Real-Time</p></td></tr>
+                  <tr><td class="sr-no">23</td><td><div class="theme-title">Nature-Inspired and Synthetic Energy Systems</div><p class="theme-focus-text">Biomimicry and Artificial Photosynthesis</p></td></tr>
+                  <tr><td class="sr-no">24</td><td><div class="theme-title">Cyber Security</div><p class="theme-focus-text">Quantum Safe and Lattice-Based Cryptography</p></td></tr>
+                  <tr><td class="sr-no">25</td><td><div class="theme-title">Emerging Space Technologies</div><p class="theme-focus-text">Architecture and Energy Systems for Colonising the Moon and Mars, and the Autonomous and Zero Pollution Mobility</p></td></tr>
+                  <tr><td class="sr-no">26</td><td><div class="theme-title">Mobility and Transport Transformation</div><p class="theme-focus-text">Autonomous and Zero Emission Vehicles</p></td></tr>
                 </tbody>
               </table>
             </div>
