@@ -3,7 +3,6 @@
 <style>
   ul {margin-left:30px !important;}
   .event-date-card {
-    display: inline-flex;
     align-items: center;
     gap: 12px;
     margin-top: 14px;
