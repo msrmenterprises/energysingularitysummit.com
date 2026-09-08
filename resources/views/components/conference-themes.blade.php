@@ -57,6 +57,17 @@
       <img src="/public/uploads/images/kborder_bottom.png" alt="">
     </div>
 
+    <p style="margin-top: 18px; line-height: 1.8;">
+      The Energy Singularity Summit (TESS) 2027 is scheduled from 05&ndash;10 April 2027 in
+      New Delhi, building on 12 successful editions of the India Smart Utility Week (ISUW)
+      conducted by the India Smart Grid Forum (ISGF) since 2015. Below is how the week
+      comes together, day by day, followed by the full set of conference themes &mdash;
+      spanning subjects that carry forward from ISUW and entirely new themes
+      introduced for the Energy Singularity era.
+      <br>
+      <strong>05&ndash;10 Apr 2027 New Delhi, India</strong>
+    </p>
+
     <!-- Program Structure Section using Table -->
     <div class="themes-table-wrap">
       <h2 style="color: #198754; margin-top: 20px;">Program Structure</h2>
