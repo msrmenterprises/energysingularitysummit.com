@@ -194,7 +194,7 @@
       </ul>
     </div>
 
-    <p style="margin-top: 30px;">To Exhibit during TESS, email us at <a href="mailto:isuw@isuw.in">isuw@isuw.in</a></p>
+    <p style="margin-top: 30px;">To Exhibit during TESS, email us at <a href="mailto:info@energysingularitysummit.com ">info@energysingularitysummit.com </a></p>
 
     <p></p>
   </div>
