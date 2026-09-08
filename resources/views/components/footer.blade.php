@@ -27,9 +27,9 @@ color:#EF7B00;
 						<h6>Follow Live Updates</h6>
                      <p></p>
                      <ul class="social-media d-flex">
-                        <li class="ms-0"><a href="https://www.facebook.com/IndiaSmartUtilityWeek" target="_blank"><img src="images/facebook.png"></a></li>
-                        <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="images/WhiteTwitter.png"></a></li> 
-                        <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="images/linkedin.png"></a></li>
+                        <li class="ms-0"><a href="https://www.facebook.com/TheEnergySingularitySummit" target="_blank"><img src="images/facebook.png"></a></li>
+                        <li><a href="https://x.com/TESSsummit" target="_blank"><img src="images/WhiteTwitter.png"></a></li> 
+                        <li><a href="https://www.linkedin.com/company/7602312/admin/" target="_blank"><img src="images/linkedin.png"></a></li>
 						<li><a href="https://www.instagram.com/indiasmartgridforum/?utm_medium=copy_link" target="_blank"><img src="images/insta.jpg" style="width:25px; height:25px;"></a></li>
                         <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum"target="_blank"><img src="images/youtube.png"></a></li>
                         <li><a href="https://www.flickr.com/photos/indiasmartgridforum" target="_blank"><img src="images/flickr.png"></a></li>
@@ -88,15 +88,15 @@ color:#EF7B00;
       <h6>Connect with TESS</h6>
       <ul class="social-links" style="list-style:none; padding:0;">
          <li style="margin-bottom:10px;">
-            <a href="https://www.linkedin.com/company/india-smart-utility-week/posts/?feedView=all" target="_blank" style="color:#0A66C2; text-decoration:none;">
+            <a href="https://www.linkedin.com/company/7602312/admin/" target="_blank" style="color:#0A66C2; text-decoration:none;">
                <img src="images/linkedin.png" alt="LinkedIn" style="width:24px; vertical-align:middle; margin-right:8px;">
                Follow us on LinkedIn
             </a>
          </li>
          <li style="margin-bottom:10px;">
-            <a href="https://twitter.com/ISUW_India" target="_blank" style="color:#1DA1F2; text-decoration:none;">
+            <a href="https://x.com/TESSsummit" target="_blank" style="color:#1DA1F2; text-decoration:none;">
                <img src="images/WhiteTwitter.png" alt="Twitter" style="width:24px; vertical-align:middle; margin-right:8px;">
-               Follow us on Twitter
+               Follow us on X
             </a>
          </li>
          
