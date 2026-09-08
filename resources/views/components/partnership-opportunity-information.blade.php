@@ -14,7 +14,7 @@
 <b>Contact Team ISGF</b><br> -->
 <p><b>For Partnership Information and Special Packages for Participation<br/>
 <b>Please write to ISGF Team at <a href="mailto:info@energysigularitysummit.com">info@energysigularitysummit.com</a></b><br> 
-<b>Call at: +91-11-41030398<br>Please refer TESS Brochure for details at following link: <a href="https://www.energysingularitysummit.com/isuw-brochure/">https://www.energysingularitysummit.com/isuw-brochure</a>  </p>
+<b>Call at: +91-11-41030398<br>Please refer TESS Brochure for details at following link: <a href="https://www.energysingularitysummit.com/tess-brochure/">https://www.energysingularitysummit.com/tess-brochure</a>  </p>
 <p></p>
 
 <p></p>

@@ -266,11 +266,12 @@ Route::get('/isuw-2024-brochure', function () {
      return view('/components/isuw-2024-brochure');
 });
 Route::get('/isuw-2025-brochure', function () {
-     return redirect('/isuw-brochure', 301);
+     return redirect('/tess-brochure', 301);
 });
-Route::get('/isuw-brochure', function () {
+Route::get('/tess-brochure', function () {
      return view('/components/isuw-2025-brochure');
 });
+Route::redirect('/isuw-brochure', '/tess-brochure', 301);
 Route::get('/theme-and-session-partners-2021', function () {
      return view('/components/theme-and-session-partners-2021');
 });
