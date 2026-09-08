@@ -79,14 +79,14 @@
         </ul>
 
         <!-- TESS 2027 details (kept from original style) -->
-        <h2 class="headingclass"><br><strong>12TH EDITION OF INDIA SMART UTILITY WEEK (ISUW 2026) FROM 10 – 14 MARCH 2026 IN NEW DELHI</strong></h2>
+        <!-- <h2 class="headingclass"><br><strong>12TH EDITION OF INDIA SMART UTILITY WEEK (ISUW 2026) FROM 10 – 14 MARCH 2026 IN NEW DELHI</strong></h2>
         <p style="text-align:justify;">
             The 12th edition of ISUW is scheduled from 10 - 14 March 2026 in New Delhi, India, as an International Conference and Exhibition on Smart Energy and Smart Mobility. ISUW 2026 will include plenary sessions, special & bilateral workshops, keynotes, roundtables, technical sessions, technical paper presentations, tutorials, and technical tours. Bilateral Smart Grid Workshops with UK, USA, Brazil, and Indonesia are also being planned. The 10th edition of ISGF Innovation Awards will be organized as part of ISUW 2025 on 13 March 2026.
-        </p>
+        </p> -->
 
         <!-- Contact and link (preserved) -->
         <p style="text-align:justify;">
-            <b>For Partnership, Exhibition and Participation queries, please write to us at <a href="mailto:isuw@isuw.in">isuw@isuw.in</a>.&nbsp; For more details about ISUW 2026, kindly visit <a href="http://www.isuw.in">www.isuw.in</a>.</b>
+            <b>For Partnership, Exhibition and Participation queries, please write to us at  <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a>.&nbsp; For more details about TESS 2027, kindly visit <a href="http://www.energysingularitysummit.com">www.energysingularitysummit.com</a>.</b>
         </p>
 
         <p></p>
