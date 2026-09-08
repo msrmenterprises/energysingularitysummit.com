@@ -30,7 +30,7 @@
         <p style="text-align:justify;">
             Despite its apparent immateriality – its existence as patterns of numbers flowing across fiber and silicon – AI is a profound physical phenomenon. Training a single frontier model can consume as much electricity as tens of thousands of homes use in a year; inference across billions of users multiplies that demand many times over.
         </p>
-        <ul style="margin-left:10px;">
+        <ul style="margin-left:40px;">
             <li>The IEA projects global data centre electricity consumption to exceed 1000 TWh annually by 2030.</li>
             <li>Data centres consuming up to 9–17% of US electricity and similar inflection points approaching in Europe, Southeast Asia and India.</li>
             <li>AI campuses demand power that is continuous, stable and clean, but transformer delivery times have stretched to 3–5 years globally.</li>
@@ -64,7 +64,7 @@
         <p style="text-align:justify;">
             A powerful convergence of technology streams is making Energy Singularity achievable, not as a distant aspiration but as an engineering and policy program already underway.
         </p>
-        <ul style="margin-left:10px;">
+        <ul style="margin-left:40px;">
             <li><strong>Advanced Renewables:</strong> Next-generation solar technologies like perovskite cells approaching 30% efficiency, bifacial modules and agrivoltaic co-deployment are dramatically reducing the land and capital requirements for solar energy. Simultaneously, offshore and floating wind architectures are unlocking rich wind corridors previously inaccessible to fixed turbines.</li>
             <li><strong>Grid-Scale and Long-Duration Energy Storage:</strong> Energy storage serves as the linchpin of a reliable, renewable-dominated grid. Lithium iron phosphate (LFP) battery systems, which have seen cost reductions exceeding 90% over the last decade, are currently being deployed at gigawatt scale to handle short-duration balancing. Pumped hydro, flow batteries, thermal storage, and emerging iron-air and gravity-based technologies are extending economical storage durations to days and weeks.</li>
             <li><strong>AI and Digital Superintelligence for Grid Management:</strong> Artificial intelligence is the largest new load on the grid and the most powerful tool available to manage it. By closing the loop between physical and digital energy systems, AI-driven demand forecasting, reinforcement learning for autonomous grid control, digital twins, predictive asset maintenance, and real-time dispatch optimisation enable grid operators to manage complex, distributed, and bidirectional power flows with a precision and speed beyond human capability.</li>
@@ -85,6 +85,7 @@
         </p> -->
 
         <!-- Contact and link (preserved) -->
+         <p></p>
         <p style="text-align:justify;">
             <b>For Partnership, Exhibition and Participation queries, please write to us at  <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a>.&nbsp; For more details about TESS 2027, kindly visit <a href="http://www.energysingularitysummit.com">www.energysingularitysummit.com</a>.</b>
         </p>
