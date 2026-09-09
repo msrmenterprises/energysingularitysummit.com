@@ -10,7 +10,7 @@ class homeController extends Controller
     {
       $banners = DB::table('banners')
         ->orderByDesc('displayBanner')
-        ->orderByDesc('bannerId')
+        ->orderBy('bannerId')
         ->get();
       $speakersr24 = DB::table('speakers2026')->get();
       $exhibitors = DB::table('exhibitors2022')->get();
