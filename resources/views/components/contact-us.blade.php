@@ -10,8 +10,8 @@
 <div class="box one ">
 <strong>CBIP Building, Malcha Marg,<br>
 Chanakyapuri, New Delhi, 110021</strong><p></p>
-<p><strong>For General Queries</strong>, <strong>Call us at</strong>: 011 -41030398, Email: <a href="mailto:isuw@isuw.in">isuw[at]isuw[dot]in</a><br>
-<strong>For Sponsorship &amp; Exhibition,</strong> Contact at <a href="mailto:isuw@isuw.in">isuw[at]isuw[dot]in</a>, <strong>Call at</strong>  +91-11-41030398<br>
+<p><strong>For General Queries</strong>, <strong>Call us at</strong>: 011 -41030398, Email: <a href="mailto:info@energysingularitysummit.com">info[at]energysingularitysummit[dot]com</a><br>
+<strong>For Sponsorship &amp; Exhibition,</strong> Contact at <a href="mailto:info@energysingularitysummit.com">info[at]energysingularitysummit[dot]com</a>, <strong>Call at</strong>  +91-11-41030398<br>
 <!--</p>contact at isuw@isuw.in, Call at +91-11-41030398-->
 </div>
 </div>
