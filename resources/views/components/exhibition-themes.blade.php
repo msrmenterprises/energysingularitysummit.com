@@ -98,7 +98,7 @@
         </tbody>
     </table>
 </div>
-<p>To Exhibit during TESS, email us at <a href="mailto:isuw@isuw.in">isuw@isuw.in</a></p>
+<p>To Exhibit during TESS, email us at <a href="mailto:isuw@energysingularitysummit.com">isuw@energysingularitysummit.com</a></p>
 
 <p></p>
 </div>
