@@ -5,7 +5,7 @@
  <div class="row justify-content-center ">
 <p></p>
 <div class="k_cheading">
-		<h1>ISUW<span class="k_greencolor"> Post Event Reports</span> </h1>
+		<h1><span class="k_greencolor"> Post Event Reports</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <p></p>

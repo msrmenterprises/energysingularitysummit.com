@@ -62,8 +62,11 @@ Route::get('/admin', function () {
   Route::get('/brochure', function () {
       return view('/components/brochure');
  });
- Route::get('/isgw-post-event-report', function () {
+ Route::get('/post-event-report', function () {
       return view('/components/isgw-post-event-report');
+ });
+ Route::get('/isgw-post-event-report', function () {
+      return redirect('/post-event-report', 301);
  });
  Route::get('/exhibition-themes', function () {
       return view('/components/exhibition-themes');
