@@ -11,7 +11,7 @@ color:#F60;
 }
 </style>
 <div class="k_cheading">
-		<h1>ISUW <span class="k_greencolor">Privacy Policy</span> </h1>
+		<h1>TESS <span class="k_greencolor">Privacy Policy</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <div class="welcome-content">
