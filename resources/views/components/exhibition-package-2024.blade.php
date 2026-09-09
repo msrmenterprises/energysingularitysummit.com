@@ -36,7 +36,7 @@
 <p></p>
 <P><B>For Special Participation Packages and other Inquiries</B></P>
 <P>Please contact: ISGF Team<br/>
-Email: <a href="mailto:isuw@energysingularitysummit.com">isuw@energysingularitysummit.com</a></P>
+Email: <a href="mailto:isuw@energysingularitysummit.com">info@energysingularitysummit.com</a></P>
 <!--<ul class="themepackage">
 <li><a href="http://www.isgw.in/exhibition-package-2020-2/">ISGW 2020 Exhibitors</a></li>
 <li><a href="http://www.isgw.in/exhibition-package-2019/">ISGW 2019 Exhibitors</a></li>
@@ -45,7 +45,7 @@ Email: <a href="mailto:isuw@energysingularitysummit.com">isuw@energysingularitys
 <li><a href="http://www.isgw.in/confirmed-exhibitors-2-2/">ISGW 2016 Exhibitors</a></li>
 <li><a href="http://www.isgw.in/confirmed-exhibitors/">ISGW 2015 Exhibitors</a></li>
 </ul>-->
-
+	
 <p></p>
 </div>
 </div>
