@@ -11,13 +11,13 @@
 }
 </style>
 <div class="k_cheading">
-		<h1>ISUW <span class="k_greencolor">Exhibition</span> </h1>
+		<h1>TESS <span class="k_greencolor">Exhibition</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
-<h4 class="headingclass"><b>EXHIBITION BOOTH AT ISUW 2026</b></h4>
+<h4 class="headingclass"><b>EXHIBITION BOOTH AT TESS 2027</b></h4>
 
 <UL class="theme">
-	<LI>The Exhibitors of ISUW have the opportunity to meet and network with the potential international and regional buyers and Utilities</li>
+	<LI>The Exhibitors of TESS have the opportunity to meet and network with the potential international and regional buyers and Utilities</li>
 	<LI>Utilities and select Technology Providers have the option to exhibit their products and solutions in the Booths which will give a unique experience of interacting with utilities, Technology Companies and Delegates from around the globe</li>
 	<LI>Explain about your offerings at one place to all</li>
 </UL>
@@ -27,7 +27,7 @@
         <img src="http://localhost:8000/uploads/images/exhibition-2022.jpg" alt="">
 		</a>
     </div>
-<H4 class="headingclass"><b>ISUW 2026 EXHIBITION BOOTH BENEFITS</b></H4>
+<H4 class="headingclass"><b>TESS 2027 EXHIBITION BOOTH BENEFITS</b></H4>
 <UL class="theme">
 	<LI>Complimentary Delegate Passes for entire program access </LI>
 	<LI>Premium Booth Location for early confirmations </LI>
@@ -36,7 +36,7 @@
 <p></p>
 <P><B>For Special Participation Packages and other Inquiries</B></P>
 <P>Please contact: ISGF Team<br/>
-Email: <a href="mailto:isuw@isuw.in">isuw@isuw.in</a></P>
+Email: <a href="mailto:isuw@energysingularitysummit.com">isuw@energysingularitysummit.com</a></P>
 <!--<ul class="themepackage">
 <li><a href="http://www.isgw.in/exhibition-package-2020-2/">ISGW 2020 Exhibitors</a></li>
 <li><a href="http://www.isgw.in/exhibition-package-2019/">ISGW 2019 Exhibitors</a></li>
