@@ -86,7 +86,7 @@
 
         <!-- Contact and link (preserved) -->
          <p></p>
-        <p style="text-align:justify;">
+        <p>
             <b>For Partnership, Exhibition and Participation queries, please write to us at  <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a>.&nbsp; For more details about TESS 2027, kindly visit <a href="http://www.energysingularitysummit.com">www.energysingularitysummit.com</a>.</b>
         </p>
 
