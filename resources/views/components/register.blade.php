@@ -1,7 +1,7 @@
 @extends('master')
 @section('content')
 
- <div class="container">
+<div class="container">
 	<style>
 		.tabletheme, td, th{padding:6px;}
 	</style>
@@ -253,7 +253,8 @@
 
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading"> 
-		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2026 Registration</span> </h1>
+		<h1>THE ENERGY SINGULARITY SUMMIT <span class="k_greencolor">(TESS 2027) Registration</span> </h1>
+		<p style="text-align:center; font-size:1.1rem; color:#555;">Built on 12 successful editions of India Smart Utility Week (ISUW) since 2015</p>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
@@ -266,7 +267,7 @@
 
 	<p></p>
 <section>
-            <h2>Registration Categories & Fees</h2>
+            <h2>Delegate Registration Categories & Fees</h2>
     
             
             <div class="table-container">
@@ -276,109 +277,114 @@
                             <th>Registration Categories</th>
                             <th>Fee in INR + 18% GST Extra</th>
                             <th>Fee in USD + Taxes</th>
+                            <th>Indian Utilities</th>
                             <th>Package Includes Passes For</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr class="highlight">
-                            <td><strong>Conference Full Pass</strong><br>
-                                4 Day Conference and Exhibition package with Special Workshops, Master classes, 
-                                Technical Tours, Gala Dinner and ISGF Innovation Awards (10 - 14 March 2026)
+                            <td><strong>6 Day Full Pass (05 - 10 April 2027)</strong><br>
+                                Package including Conference, Exhibition, Special Workshops, Master Classes, ISGF Innovation Awards with Gala Dinner and Technical Tours
                             </td>
-                            <td><strong>40,000*</strong></td>
+                            <td><strong>50,000*</strong></td>
                             <td><strong>500*</strong></td>
+                            <td><strong>Complimentary***</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>Access to ISUW Conference and Exhibition for 3 Days (11 – 13 March 2026)</strong></li>
-                                    <li><strong>Access to Master classes on 10 March 2026 and Technical Tours on 14 March 2026</strong></li>
-                                    <li><strong>1 coupon of the amazing lunch buffet spread for 3 days (11 – 13 March 2026)</strong></li>
+                                    <li><strong>Access to co-hosted IRED event on 05 April 2027</strong></li>
+                                    <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
+                                    <li><strong>Access to Master Classes on 06 April 2027</strong></li>
+                                    <li><strong>Access to TESS 2027 Conference and Exhibition for 3 Days (07 - 09 April 2027)</strong></li>
                                     <li><strong>High tea and coffee throughout the conference day</strong></li>
-                                    <li><strong>Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners sponsor and exhibitors</strong></li>
-                                    <li><strong>Special access to ISGF Innovation Awards Night on 13 March 2026</strong></li>
-                                    <li><strong>Gala Dinner for 1 Pax on 13 March 2026</strong></li>
+                                    <li><strong>1 coupon of the amazing lunch buffet spread for 5 days (05 - 09 April 2027)</strong></li>
+                                    <li><strong>Exclusively designed Delegate Bag</strong></li>
+                                    <li><strong>Special access to ISGF Innovation Awards Night on 09 April 2027</strong></li>
+                                    <li><strong>Gala Dinner for 1 Pax on 09 April 2027</strong></li>
+                                    <li><strong>Access to Technical Tours on 10 April 2027</strong></li>
                                 </ul>
                             </td>
                         </tr>
                         <tr>
-                            <td><strong>3 Day Conference and Exhibition package (Including Gala Dinner)</strong></td>
-                            <td><strong>35,000*</strong></td>
+                            <td><strong>5 Day Conference and Exhibition (06 - 10 April 2027)</strong><br>
+                                Package Including Conference, Exhibition, Special Workshops ISGF Innovation Awards with Gala Dinner and Technical Tours
+                            </td>
+                            <td><strong>45,000*</strong></td>
                             <td><strong>450*</strong></td>
+                            <td><strong>Complimentary***</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>Access to ISUW Conference and Exhibition for 3 Days (11 – 13 March 2026)</strong></li>
-                                    <li>1 coupon of the amazing lunch buffet spread for 3 days <strong>(11 – 13 March 2026)</strong></li>
+                                    <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
+                                    <li><strong>Access to TESS 2027 Conference and Exhibition for 3 Days (07 - 09 April 2027)</strong></li>
                                     <li>High tea and coffee throughout the conference day</li>
-                                    <li>Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners sponsor and exhibitors</li>
-                                    <li>Special access to ISGF Innovation Awards Night on <strong>13 March 2026</strong></li>
-                                    <li>Gala Dinner for 1 Pax on <strong>13 March 2026</strong></li>
+                                    <li>1 coupon of the amazing lunch buffet spread for 4 days (06 - 09 April 2027)</li>
+                                    <li>Exclusively designed Delegate Bag</li>
+                                    <li>Special access to ISGF Innovation Awards Night on <strong>09 April 2027</strong></li>
+                                    <li>Gala Dinner for 1 Pax on <strong>09 April 2027</strong></li>
+                                    <li>Access to Technical Tours on <strong>10 April 2027</strong></li>
                                 </ul>
                             </td>
                         </tr>
                         <tr>
-                            <td><strong>ISGF Innovation Awards 2026 with Gala Dinner Pass (13 March 2026)</strong></td>
+                            <td><strong>Master Classes on 6 April 2027 and 3 Days Exhibition only Pass (07 - 09 April 2027)</strong></td>
+                            <td><strong>10,000*</strong></td>
+                            <td><strong>100*</strong></td>
+                            <td><strong>Complimentary***</strong></td>
+                            <td>
+                                <ul class="package-list">
+                                    <li><strong>Access to Master Classes on 06 April 2027</strong></li>
+                                    <li><strong>3 Days Exhibition only (07 - 09 April 2027)</strong></li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><strong>ISGF Innovation Awards 2027 with Gala Dinner Pass (09 April 2027)</strong></td>
                             <td><strong>10,000*</strong></td>
                             <td><strong>150*</strong></td>
+                            <td><strong>10000</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>Access to ISGF Innovation Awards Night and Gala Dinner for 1 Pax** on 13 March 2026</strong></li>
+                                    <li><strong>Access to ISGF Innovation Awards Night and Gala Dinner for 1 Pax on 09 April 2027</strong></li>
                                 </ul>
                             </td>
                         </tr>
                         <tr>
-                            <td><strong>Master Classes on 10 March 2026 and 3 Days Exhibition only (11-13 March 2026)</strong></td>
-                            <td><strong>8,000*</strong></td>
-                            <td><strong>100*</strong></td>
-                            <td>
-                                <ul class="package-list">
-                                    <li><strong>Access to Master Classes on 10 March 2026</strong></li>
-                                    <li><strong>3 Days Exhibition only (11-13 March 2026)</strong></li>
-                                </ul>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><strong>Bonafide Indian Students Pass for Conference & Exhibition** (10-13 March 2026)</strong></td>
+                            <td><strong>Bonafide Indian Students Pass for Conference & Exhibition** (5-9 April 2027)</strong></td>
                             <td><strong>10,000</strong></td>
-                            <td><strong>NA</strong></td>
+                            <td><strong>N/A</strong></td>
+                            <td><strong>—</strong></td>
                             <td>
                                 <ul class="package-list">
                                     <li><strong>Package including Master Classes, Conference, Exhibition and Special Workshops.</strong></li>
-                                    <li>Email your valid ID card to avail the offer at isuw@isuw.in</li>
-                                    <li>Access to ISUW Conference and Exhibition for 3 days <strong>(11 – 13 March 2026)</strong></li>
-                                    <li>1 coupon of the amazing lunch buffet spread for 3 days</li>
+                                    <li>Email your valid ID card to avail the offer at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></li>
+                                    <li>Access to TESS 2027 Conference and Exhibition for 3 days <strong>(07 - 09 April 2027)</strong></li>
                                     <li>High tea and coffee throughout the conference day</li>
+                                    <li>1 coupon of the amazing lunch buffet spread for 5 days (05 - 09 April 2027)</li>
                                 </ul>
                                 <p class="note" style="margin-top: 10px;">
                                     <strong>Please note:</strong> Only valid students with valid ID card will be allowed to get this pass. 
                                     ISGF holds the right to cancel the registration in case invalid ID is found. 
-                                    Student id card shall be emailed at <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> in advance.
+                                    Student id card shall be emailed at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a> in advance.
                                 </p>
                             </td>
                         </tr>
                         <tr>
-                            <td><strong>Visitor Pass for 3 Days Exhibition Only (11-13 March 2026)</strong></td>
+                            <td><strong>Visitor Pass for 3 Days Exhibition Only (07 - 09 April 2027)</strong></td>
                             <td><strong>Complimentary</strong></td>
-                            <td><strong>Complimentary</strong></td>
-                            <td>
-                                <ul class="package-list">
-                                    <li><strong>Access to Exhibition from 11 – 13 March 2026</strong></li>
-                                </ul>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td><strong>Indian Utility Pass</strong></td>
                             <td><strong>Complimentary</strong></td>
                             <td><strong>Complimentary</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>For Registration of Indian Utility Officials,</strong> Email your valid ID card at <a href="mailto:yashika@indiasmartgrid.org">yashika@indiasmartgrid.org</a></li>
-                                    <li>Valid requests will get access to ISUW Conference and Exhibition for 3 days <strong>(11 – 13 March 2026),</strong> 1 coupon of the amazing lunch buffet spread for 3 days, High tea and coffee throughout the conference day</li>
+                                    <li><strong>Access to Exhibition from 07 – 09 April 2027</strong></li>
                                 </ul>
                             </td>
                         </tr>
                     </tbody>
                 </table>
             </div>
-         <p class="note"><strong>Note:</strong> 18% GST will be applicable on all the above-mentioned amounts</p>   
+         <p class="note"><strong>Note:</strong> Applicable taxes (18% GST) extra. <br>
+         ** Bonafide Students Pass will be provided only after verification of IDs and it does not include Gala Dinner Pass. <br>
+         *** Utilities Complimentary Pass will be provided only after verification of ID. <br>
+         For Group Discounts, please write us at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></p>   
         </section>
 
         <section class="discounts-container">
@@ -394,19 +400,19 @@
                 <tbody>
                     <tr>
                         <td><strong>20%</strong></td>
-                        <td>Early Bird offer is valid till <strong>28 Feb 2026</strong>. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with your organisation details</td>
+                        <td>Early Bird offer is valid till <strong>10th March 2027</strong>. To get this code, please write to us at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a> with your organisation details</td>
                     </tr>
                     <tr>
                         <td><strong>20%</strong></td>
-                        <td>Only for ISGF Members valid till <strong>28 Feb 2026</strong> - <a href="https://indiasmartgrid.org/members-list" target="_blank">https://indiasmartgrid.org/members-list</a>. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with your organisation details</td>
+                        <td>Only for ISGF Members valid till <strong>10th March 2027</strong> – <a href="https://indiasmartgrid.org/members-list" target="_blank">https://indiasmartgrid.org/members-list</a>. To get this code, please write to us at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a> with your organisation details</td>
                     </tr>
                     <tr>
                         <td><strong>20%</strong></td>
-                        <td>This offer is valid for <strong>Delegate group of 4 till 28 Feb 2026</strong>. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with delegate details such as Name, Email id and Company Name</td>
+                        <td>This offer is valid for <strong>Delegate group of 4 till 10th March 2027</strong>. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a> with delegate details such as Name, Email id and Company Name</td>
                     </tr>
                     <tr>
                         <td><strong>30%</strong></td>
-                        <td>This offer is valid for <strong>Delegate group of 5 and above till 28 Feb 2026.</strong> In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with Delegate Details such as Name, Email id and Company Name</td>
+                        <td>This offer is valid for <strong>Delegate group of 5 and above till 10th March 2027.</strong> In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a> with Delegate Details such as Name, Email id and Company Name</td>
                     </tr>
                 </tbody>
             </table>
@@ -415,154 +421,12 @@
         <section class="disclaimer">
             <h2>Disclaimer</h2>
             <ul class="package-list">
-                <li><strong>All the Foreign Delegates</strong> interested in visiting ISUW 2026 may apply for e-visa. For Visa letter request please register yourself and send us a request for visa letter on email id <a href="mailto:isuw@isuw.in">isuw@isuw.in</a></li>
+                <li><strong>All the Foreign Delegates</strong> interested in visiting TESS 2027 may apply for e-visa. For Visa letter request please register yourself and send us a request for visa letter on email id <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></li>
                 <li>ISGF holds the right of admission, registration cancellation and to revoke any discount offers</li>
                 <li>GST and other important charges will be over and above the mentioned fee</li>
-                <li>For queries, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a></li>
+                <li>For queries, please write to us at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></li>
             </ul>
 	    </section>
-    <!-- <table class="tabletheme" border="1">
-        <thead>
-            <tr style="background: #EF7B00;color: white;">
-                <th>Registration Categories</th>
-                <th>Fee in INR + 18% GST Extra</th>
-                <th>Fee in USD + Taxes</th>
-                <th>Package Includes Passes For</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr style="font-weight:bold">
-                <td>Conference Full Pass<br/>3 Day Conference and Exhibition package with Special Workshops, Master classes, Technical Tours, Gala Dinner and ISGF Innovation Awards (18 - 22March 2025)</td>
-                <td>40,000*</td>
-                <td>500*</td>
-                <td>
-                <ul class="theme">
-                    
-                <li>Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)</li>
-                <li>Access to Master classes on 18 March 2025 and Technical Tours on 22 March 2025</li>
-                <li> 1 coupon of the amazing lunch buffet spread for 3 days (19 – 21 March 2025)</li>
-                <li> High tea and coffee throughout the conference day</li>
-                <li> Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners, sponsors, and exhibitors</li>
-                <li> Special access to ISGF Innovation Awards Night on 21 March 2025<</li>
-                <li> Gala Dinner for 1 Pax on 21 March 2025</li>
-                </ul>   
-                </td>
-            </tr>
-            <tr>
-                <td><b>3 Day Conference and Exhibition package (Including Gala Dinner)</b></td>
-                <td><b>35,000*</b></td>
-                <td><b>450*</b></td>
-                <td>
-                <ul class="theme">
-                    <li><b>Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)</b></li>
-                    <li>1 coupon of the amazing lunch buffet spread for 3 days <b>(19 – 21 March 2025)</b></li>
-                    <li>High tea and coffee throughout the conference day</li>
-                    <li> Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners, sponsors, and exhibitors</li>
-                    <li>Special access to ISGF Innovation Awards Night on 21 March 2025</li>
-                    <li>Gala Dinner for 1 Pax on 21 March 2025</li>
-                </ul>    
-                </td>
-            </tr>
-            <tr>
-                <td>ISGF Innovation Awards 2025 with Gala Dinner Pass (21 March 2025)</td>
-                <td>10,000*</td>
-                <td>150*</td>
-                <td>Access to ISGF Innovation Awards Night and Gala Dinner for 1 Pax on 21 March 2025</td>
-            </tr>
-            <tr>
-                <td>Master Classes on 18 March 2025 and 3 Days Exhibition only (18 - 21 March 2025)</td>
-                <td>8,000*</td>
-                <td>100*</td>
-                <td>
-                <ul class="theme">
-                    <li>Access to Master Classes on 18 March 2025</li>
-                    <li>3 Days Exhibition only (18 - 21 March 2025)</li>
-                </ul>    
-                </td>
-            </tr>
-            <tr>
-                <td>Bonafide Indian Students Pass for Conference & Exhibition (18 - 21 March 2025)</td>
-                <td>10,000</td>
-                <td>NA</td>
-                <td>
-                <ul class="theme">
-                    <li>Package including Master Classes, Conference, Exhibition, and Special Workshops</li>
-                    <li>Attach/Email your valid ID card to avail the offer at isuw@isuw.in</li>
-                    <li>Access to ISUW Conference and Exhibition for 3 days (13 – 15 March 2024)</li>
-                    <li>1 coupon of the amazing lunch buffet spread for 3 days</li>
-                    <li>High tea and coffee throughout the conference day</li>
-                    <li>Please note: Only valid students with a valid ID card will be allowed to get this pass. ISGF holds the right to cancel the registration in case an invalid ID is found. The student ID card shall be emailed at isuw@isuw.in in advance</li>
-                </ul>    
-                </td>
-            </tr>
-            <tr>
-                <td>Visitor Pass for 3 Days Exhibition Only (19 - 21 March 2025)</td>
-                <td>Complimentary</td>
-                <td>Complimentary</td>
-                <td>Access to Exhibition from 19 – 21 March 2025</td>
-            </tr>
-            <tr>
-                <td>Indian Utility Pass</td>
-                <td>Complimentary</td>
-                <td>Complimentary</td>
-                <td>
-                <ul class="theme">
-                    <li>For Registration of Indian Utility Officials, Attach/Email your valid ID card at yashika@indiasmartgrid.org</li>
-                    <li>Valid requests will get access to ISUW Conference and Exhibition for 3 days (13 – 15 March 2024), 1 coupon of the amazing lunch buffet spread for 3 days, High tea and coffee throughout the conference day</li>
-                </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    <p>*18% GST will be applicable on all the above-mentioned amounts</p>
-
-	<h2>Offers and Discounts</h2>
-    <table class="tabletheme" border="1">
-        <thead>
-		<tr style="background: #EF7B00;color: white;">
-			<th>Discount Percentage</th>
-			<th>Terms and Conditions</th>
-		</tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>20%</td>
-                <td>Early Bird offer is valid till 10 Feb 2025. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with your organisation details</td>
-            </tr>
-            <tr>
-                <td>20%</td>
-                <td>Only for ISGF Members valid till 20 Feb 2025. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with your organisation details</td>
-            </tr>
-            <tr>
-                <td>20%</td>
-                <td>This offer is valid for Delegate group of 4 till 15 Feb 2025. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with delegate details such as Name, Email id, and Company Name</td>
-            </tr>
-            <tr>
-                <td>30%</td>
-                <td>This offer is valid for Delegate group of 5 and above till 15 Feb 2025. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with Delegate Details such as Name, Email id, and Company Name</td>
-            </tr>
-        </tbody>
-    </table>
-
-
-
-
-<p><b>Disclaimer:</b><br/>
-<ul>
-    <li>All the Foreign Delegates interested in visiting ISUW 2025 may apply for e-visa.For Visa
-letter request please register yourself and send us a request for visa letter on email id
-<a href="mailto:isuw@isuw.in">isuw@isuw.in</a></li>
-    <li>ISGF holds the right of admission, registration cancellation and to revoke any discount offers</li>
-<li>GST and other important charges will be over and above the mentioned fee</li>
-<li>For queries, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a></li></ul>
-<p></p>
-
-	<div class="k_cheading">
-	
-	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
-	
-	</div> -->
-	
 
 	<p></p>
 </div></div>
