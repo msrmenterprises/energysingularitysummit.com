@@ -258,7 +258,7 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
-	<p><img src="images/2026/ISUWReg.jpg" alt="" style="width:100%"> </p>
+	<p><img src="images/2026/ISUWRegNew.jpeg?id=1" alt="" style="width:100%"> </p>
 	<div class="k_cheading">
 	
     <a href="https://isuw2026.theonsite.cloud/register.php" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
