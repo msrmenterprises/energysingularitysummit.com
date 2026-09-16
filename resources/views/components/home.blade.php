@@ -303,7 +303,7 @@
                         </div>
                         <div class="col-lg-3">
                            <div class="spot-div">
-                              <a href="https://www.isuw.in/innovation-awards" target="_blank">
+                              <a href="https://www.energysingularitysummit.com/innovation-awards" target="_blank">
                                  <img src="images/spot04.png" class="logo-img " alt="..." style="height:47px;">
                                  <h3>Innovation 
                                     Awards
