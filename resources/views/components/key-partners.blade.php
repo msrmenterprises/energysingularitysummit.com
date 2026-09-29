@@ -699,11 +699,6 @@
                     </a>
                 </div>
                 <div class="logo-card">
-                    <a href="https://www.intellismartinfra.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/intellismart.PNG" alt="IntelliSmart">
-                    </a>
-                </div>
-                <div class="logo-card">
                     <a href="https://www.seci.co.in/" target="_blank" rel="noopener noreferrer">
                         <img src="http://isuw.in/public/uploads/partner/download.png" alt="SECI">
                     </a>
