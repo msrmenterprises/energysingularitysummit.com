@@ -459,7 +459,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
     <div id="flush-collapeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
         <P>1. <b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received for the same project, the second nomination (as per the date and time) will be considered invalid. In case a Utility and Implementing Agency submits the nomination for same project, it will be taken forward as joint Nomination.</P>
-        <p>2. ISGF holds the right to change the category of nomination in case same is proposed by Jury members</p>
+        <p>2. ISGF holds the right to change the category of nomination in case it is better suited in a different category</p>
         <P>3. <b>All the Project Nominations should be successfully completed projects.</b> Projects at idea/design/implementation stage will not be considered.</P>
         <P>4. <b>Project should be completed within the past 5 years</b></P>
         <P>5. <b>In case you feel that your project deserves an award, but it is not fitting into any category - please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></b></P>
@@ -646,6 +646,11 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
                 <td>Gold Award</td>
                 <td>3rd Rank</td>
             </tr>
+            <tr>
+                <td>4</td>
+                <td>Certificate of Merit</td>
+                <td>QUALIFIED AMONGST BEST PROJECTS IN PRESENTATION ROUND BUT NOT RANKED IN TOP 3</td>
+            </tr>
         </table>
       </div>
     </div>
@@ -778,7 +783,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
                 <td>25 - 26 Feb 2027 (Exact dates will be sent on email to selected Nominees)</td>
             </tr>
             <tr>
-                <td><B>AWARD DISTRIBUTION</B></td>
+                <td><B>AWARDS DISTRIBUTION</B></td>
                 <td>09 April 2027</td>
             </tr>
         </table>
@@ -805,10 +810,10 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
             <LI><P>All documents submitted shall be used only for evaluation purposes</P></LI>
             <LI><P>ISGF reserves the right to reject any entry based on its discretion</P></LI>
             <LI><P>ISGF reserves the right to cancel or amend all or any part of the competition and/ or the rules</P></LI>
-            <LI><P>Any changes to the rules, or cancellation of the competition, will be posted on the contest page on ISGF/ISUW portals. It is the responsibility of the participants to keep themselves informed as to any changes to the rules</P></LI>
+            <LI><P>Any changes to the rules, or cancellation of the competition, will be posted on the contest page on ISGF/The Energy Singularity Summit (TESS 2027) - Formerly known as India Smart Utility Week (ISUW) portals. It is the responsibility of the participants to keep themselves informed as to any changes to the rules</P></LI>
             <LI><P>ISGF team and partners will not be held responsible if the participants are not able to submit their entries on ISGF portal by email before the last date &amp; time of submission for any reason whatsoever</P></LI>
-            <LI><P>ISGF accepts no responsibility for any damage, loss or injury of any kind suffered by any participant in participating in the Award, including as a result of any participant winning or not winning any prize</P></LI>
-            <LI><P>The jury of the ISGF Innovation Award 2027 shall have the final authority in determining the winner of the award in each category. The decision of the Jury shall be final, conclusive and binding, the winner or any other person shall have no legal or any other rights to contest or dispute the decision of the jury</P></LI>
+            <LI><P>ISGF accepts no responsibility for any damage, loss or injury of any kind suffered by any participant in participating in the Awards, including as a result of any participant winning or not winning any prize</P></LI>
+            <LI><P>The jury of the ISGF Innovation Awards shall have the final authority in determining the winner of the awards in each category. The decision of the Jury shall be final, conclusive and binding, the winner or any other person shall have no legal or any other rights to contest or dispute the decision of the jury</P></LI>
             <LI><P>In the event that no Participant in a category is found to be worthy of an award by the Jury, the Award category may be cancelled by the Jury</P></LI>
             <LI><P>The award category nomination selected in the nomination form can be changed to other award category by ISGF based on the information provided in the form. The change in award category nomination will be communicated by the ISGF team to the respective nominees</P></LI>
             <LI><P>The nominee accepts that content of the nomination form, photography / video recording during and after the event can be used by the ISGF and partners for purpose of producing editorial content and advertising materials</P></LI>
@@ -865,10 +870,10 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
       </div>
       <div class="accordion-body">
         <UL class="theme">
-            <LI><P><B>Read Details:</B>Visit our website: <A href="https://www.isuw.in/innovation-awards" target="_blank">https://www.isuw.in/innovation-awards</A></P></LI>
+            <LI><P><B>Read Details:</B> Visit our website: <A href="https://www.isuw.in/innovation-awards" target="_blank">https://www.isuw.in/innovation-awards</A></P></LI>
             <LI><P><B>Identify your Category:</B> Read thoroughly the website page and understand the Nomination Categories table with details regarding the award category, eligibility and description. (In case of doubt, please feel free to reach us)</P></LI>
-            <LI><P><B>Fill each and every detail as asked by us for evaluation of your Nomination by Juries. Nomination Form Link: <a href="https://forms.gle/DvpqgPTSfYtRz9XW9" target="_blank">https://forms.gle/DvpqgPTSfYtRz9XW9</a></B></P></LI>
-            <LI><P><B>Email Us for Queries :</B>Write to us at awards@isuw.in</P></LI>
+            <LI><P><B>Fill the Nomination Form Online and Submit:</B> Fill each and every detail as asked by us for evaluation of your Nomination by Juries. Nomination Form Link: <a href="https://forms.gle/DvpqgPTSfYtRz9XW9" target="_blank">https://forms.gle/DvpqgPTSfYtRz9XW9</a></P></LI>
+            <LI><P><B>Email Us for Queries:</B> Write to us at awards@isuw.in</P></LI>
             <LI><P><B>Please note:</B> Any Nomination Form and its Document's in Hard Copy or Email will not be accepted. Online submission is Mandatory.</P></LI>
         </UL>
       </div>
