@@ -294,154 +294,129 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
         <P class="justify-text">For 11<sup>th</sup> ISGF Innovation Awards 2027, the following award categories are open for nominations: Please refer below table for award categories and eligibility:</P>
 
         <table class="nom-table">
-            <tr>
-                <th style="width:7%;">Sr No</th>
-                <th style="width:26%;">Award Categories</th>
-                <th style="width:23%;">Who can Apply?</th>
-                <th style="width:44%;">Category Focus</th>
-            </tr>
+    <tr>
+        <th style="width:7%;">Sr No</th>
+        <th style="width:26%;">Award Categories</th>
+        <th style="width:23%;">Who can Apply?</th>
+        <th style="width:44%;">Category Focus</th>
+    </tr>
 
-            <!-- Category 1 -->
-            <tr class="row-alt">
-                <td style="text-align:center;"><b>1</b></td>
-                <td>
-                    <p>Best Smart Grid Project in a DISCOM in India</p>
-                    <p class="cat-list">a. Utility</p>
-                    <p class="cat-list">b. Technology Company/Implementing Agency</p>
-                </td>
-                <td>Electricity Distribution Companies (DISCOMs) (Public &amp; Private) OR Implementing Agencies OR Technology Companies</td>
-                <td>
-                    <p>Electricity Distribution Companies (DISCOMs) in India have executed several smart grid projects. This category will recognize holistic implementation, integration, and impact coming from successfully deployed solutions, rather than piece meal modules. Nominations will be divided into two categories:</p>
-                    <p>a) Utilities<br>b) Technology Company/Implementing Agencies</p>
-                    <p><b>Please note: For the ONE project, only ONE nomination will be accepted. Utility and Implementing Agency can submit joint nomination if both are interested</b></p>
-                </td>
-            </tr>
+    <!-- Category 1 -->
+    <tr class="row-alt">
+        <td style="text-align:center;"><b>1</b></td>
+        <td>
+            <p>Best Smart Grid Project in a DISCOM in India</p>
+            <p class="cat-list">a. Utility</p>
+            <p class="cat-list">b. Technology Company/Implementing Agency</p>
+        </td>
+        <td>Electricity Distribution Companies (DISCOMs) (Public &amp; Private) OR Implementing Agencies OR Technology Companies</td>
+        <td>
+            <p>Electricity Distribution Companies (DISCOMs) in India have executed several smart grid projects. This category will recognize holistic implementation, integration, and impact coming from successfully deployed solutions, rather than piece meal modules. Nominations will be divided into two categories:</p>
+            <p>a) Utilities<br>b) Technology Company/Implementing Agencies</p>
+            <p><b>Please note: For the ONE project, only ONE nomination will be accepted. Utility and Implementing Agency can submit joint nomination if both are interested</b></p>
+        </td>
+    </tr>
 
-            <!-- Category 2 -->
-            <tr>
-                <td style="text-align:center;"><b>2</b></td>
-                <td>Most Innovative Renewable Energy Programs/Projects in India including Energy Storage Systems (ESS)</td>
-                <td>Utilities, Project Developers, Implementing Agencies OR Technology Companies</td>
-                <td>This award category will recognise the innovative measures adopted for the promotion of Renewable Energy and ESS by any Utility/Project Developer/Technology Company/Implementing Agency in India</td>
-            </tr>
+    <!-- Category 2 -->
+    <tr>
+        <td style="text-align:center;"><b>2</b></td>
+        <td>Most Innovative Renewable Energy Programs/Projects in India including Energy Storage Systems (ESS)</td>
+        <td>Utilities, Project Developers, Implementing Agencies OR Technology Companies</td>
+        <td>This award category will recognise the innovative measures adopted for the promotion of Renewable Energy and ESS by any Utility/Project Developer/Technology Company/Implementing Agency in India</td>
+    </tr>
 
-            <!-- Category 3 -->
-            <tr class="row-alt">
-                <td style="text-align:center;"><b>3</b></td>
-                <td>
-                    <p>Smart Technology</p>
-                    <p class="cat-list">a. Electricity – Distribution</p>
-                    <p class="cat-sub-list">1) Network improvements in both Urban and Rural area;</p>
-                    <p class="cat-sub-list">2) Behind The Meter (BTM) Innovations/ Projects</p>
-                    <p class="cat-sub-list">3) Network Operations</p>
-                    <p class="cat-list">b. Electricity – Domains other than Distribution</p>
-                    <p class="cat-sub-list">1) Generation</p>
-                    <p class="cat-sub-list">2) Transmission,</p>
-                    <p class="cat-sub-list">3) Energy Storage Systems (ESS)</p>
-                    <p class="cat-sub-list">4) Others</p>
-                    <p class="cat-list">c. Domains other than Electricity</p>
-                    <p class="cat-sub-list">1) Smart Gas Distribution</p>
-                    <p class="cat-sub-list">2) Smart Water Distribution</p>
-                    <p class="cat-sub-list">3) Others</p>
-                </td>
-                <td>Utilities, Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</td>
-                <td>
-                    <p>This award category will recognise successfully implemented smart technologies by following:</p>
-                    <p class="cat-sub-list2">a) Projects implemented in Electricity – Distribution Domain – Network improvement behind the Meter, Network Operators, System Operators Level, Rural Areas Projects</p>
-                    <p class="cat-sub-list2">b) Successful projects implemented in Domains such as Electricity Generation, Transmission, ESS etc.</p>
-                    <p class="cat-sub-list2">c) Projects implemented in Smart Gas Distribution, Smart Water Distribution, etc.</p>
-                </td>
-            </tr>
+    <!-- Category 3 -->
+    <tr class="row-alt">
+        <td style="text-align:center;"><b>3</b></td>
+        <td>
+            <p>Smart Technology for Electricity – Distribution</p>
+            <p class="cat-list">i. Network improvements in both Urban and Rural area;</p>
+            <p class="cat-list">ii. Behind The Meter (BTM) Innovations/ Projects</p>
+            <p class="cat-list">iii. Network Operations</p>
+        </td>
+        <td>Utilities, Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</td>
+        <td>
+            <p>This award category will recognise successfully implemented smart technologies by Projects implemented in Electricity – Distribution Domain – Network improvement behind the Meter, Network Operators, System Operators Level, Rural Areas Projects</p>
+        </td>
+    </tr>
 
-            <!-- Category 4 -->
-            <tr>
-                <td style="text-align:center;"><b>4</b></td>
-                <td>
-                    <p>Emerging Innovation in Electric Mobility Domain</p>
-                    <p class="cat-list">a. Electric Vehicle (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries, Drones etc) and Batteries for Electric Mobility</p>
-                    <p class="cat-list">b. EV and EVSE Rollouts including New Business Models, Solar EV Charging Stations etc</p>
-                </td>
-                <td>
-                    <p class="small-note">a) Manufacturers of Electric Vehicles (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries, Drones etc) and Battery Manufacturers</p>
-                    <p class="small-note">b) Agencies who have operationalized large fleet of EVs – Buses, Taxis and 3 Wheelers</p>
-                    <p class="small-note">c) Organisations who have rolled out EV Charging Infrastructure</p>
-                    <p class="small-note">d) Companies who support the rollout of Electric Mobility in India through their innovative solutions, technologies, software platforms etc</p>
-                    <p class="small-note">e) Companies who have implemented innovative projects in this category including Solar EV Charging Stations</p>
-                </td>
-                <td>
-                    <p>This Award category recognizes the most innovative EV and EVSE Design, Manufacture and Rollouts in India</p>
-                    <p>Please note:</p>
-                    <p class="cat-note">- Only OEMs, Fleet Operators and Public Transport Companies are eligible to submit Nominations in this category</p>
-                    <p class="cat-note">- <b>Nomination of projects at design stage will not be accepted</b></p>
-                </td>
-            </tr>
+    <!-- Category 4 -->
+    <tr>
+        <td style="text-align:center;"><b>4</b></td>
+        <td>
+            <p>Smart Technology for Electricity – Domains other than Distribution</p>
+            <p class="cat-list">i. Generation</p>
+            <p class="cat-list">ii. Transmission,</p>
+            <p class="cat-list">iii. Energy Storage Systems (ESS)</p>
+            <p class="cat-list">iv. Others</p>
+        </td>
+        <td>Utilities, Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</td>
+        <td>
+            <p>This award category will recognise successfully implemented smart technologies by Successful projects implemented in Domains such as Electricity Generation, Transmission, ESS etc.</p>
+        </td>
+    </tr>
 
-            <!-- Category 5 -->
-            <tr class="row-alt">
-                <td style="text-align:center;"><b>5</b></td>
-                <td>
-                    <p>Adoption of Artificial Intelligence, Machine Learning, Virtual Reality (VR)/Augmented Reality (AR) and Robotic Solutions</p>
-                    <p class="cat-list">a. Utility</p>
-                    <p class="cat-list">b. Industry/Technology Provider</p>
-                </td>
-                <td>Utilities (Public &amp; Private) OR Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</td>
-                <td>
-                    <p>Utilities in India have adopted and implemented advanced solutions with Artificial Intelligence, Machine Learning, Virtual Reality (VR)/Augmented Reality (AR) and Robotics Technologies</p>
-                    <p>This category will recognize holistic implementation, integration, and impact coming from deployed solutions using the above technologies.</p>
-                    <p>(Please note: A Video of the technology is requested to attach with the nomination)</p>
-                </td>
-            </tr>
+    <!-- Category 5 -->
+    <tr class="row-alt">
+        <td style="text-align:center;"><b>5</b></td>
+        <td>
+            <p>Emerging Innovation in Electric Mobility Domain</p>
+            <p class="cat-list">a. Electric Vehicle (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries, Drones etc) and Batteries for Electric Mobility</p>
+            <p class="cat-list">b. EV and EVSE Rollouts including New Business Models, Solar EV Charging Stations etc</p>
+        </td>
+        <td>
+            <p class="small-note">a) Manufacturers of Electric Vehicles (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries, Drones etc) and Battery Manufacturers</p>
+            <p class="small-note">b) Agencies who have operationalized large fleet of EVs – Buses, Taxis and 3 Wheelers</p>
+            <p class="small-note">c) Organisations who have rolled out EV Charging Infrastructure</p>
+            <p class="small-note">d) Companies who support the rollout of Electric Mobility in India through their innovative solutions, technologies, software platforms etc</p>
+            <p class="small-note">e) Companies who have implemented innovative projects in this category including Solar EV Charging Stations</p>
+        </td>
+        <td>
+            <p>This Award category recognizes the most innovative EV and EVSE Design, Manufacture and Rollouts in India</p>
+            <p>Please note:</p>
+            <p class="cat-note">- Only OEMs, Fleet Operators and Public Transport Companies are eligible to submit Nominations in this category</p>
+            <p class="cat-note">- <b>Nomination of projects at design stage will not be accepted</b></p>
+        </td>
+    </tr>
 
-            <!-- Category 6 -->
-            <tr>
-                <td style="text-align:center;"><b>6</b></td>
-                <td>Smart Start-up and Incubator of the Year</td>
-                <td>Start – ups with demonstrated solutions for utilities (Electricity, Electric Mobility, Gas and Water) and Incubators, Entrepreneurship Cells (E-Cell) promoting startups in these domains</td>
-                <td>
-                    <p>This award category recognizes:</p>
-                    <p class="cat-note">- Technology start-ups (less than 5 years old and have revenue less than INR 100 crores in financial year 2024-2025), that have helped solving issues mainly for utilities and have enabled them and their end-customers to become efficient and smarter.</p>
-                    <p class="cat-note">- Incubators in India that are hosted and supported by Government, Academia, Industrial bodies, Corporate and others. They continue to play a strong role in aiding start-up ecosystem and promoting innovation. This award recognizes their contributions to the utility sector.</p>
-                </td>
-            </tr>
+    <!-- Category 6 -->
+    <tr>
+        <td style="text-align:center;"><b>6</b></td>
+        <td>
+            <p>Adoption of Artificial Intelligence, Machine Learning, Virtual Reality (VR)/Augmented Reality (AR) and Robotic Solutions</p>
+            <p class="cat-list">a) Utility</p>
+            <p class="cat-list">b) Industry/Technology Provider</p>
+        </td>
+        <td>Utilities (Public &amp; Private) OR Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</td>
+        <td>
+            <p>Utilities in India have adopted and implemented advanced solutions with Artificial Intelligence, Machine Learning, Virtual Reality (VR)/Augmented Reality (AR) and Robotics Technologies</p>
+            <p>This category will recognize holistic implementation, integration, and impact coming from deployed solutions using the above technologies.</p>
+            <p>(Please note: A Video of the technology is requested to attach with the nomination)</p>
+        </td>
+    </tr>
 
-            <!-- Category 7 -->
-            <tr class="row-alt">
-                <td style="text-align:center;"><b>7</b></td>
-                <td>Innovative Financing For Energy Transition</td>
-                <td>Angel Investors, Venture Capital Funds, Family Offices, Private Equity Funds, Development Financing Institutions, Philanthropic Funding Institutes, other Funding Agencies/Companies who have financed large RE, EV and other Clean Energy Projects and Technologies</td>
-                <td>This award category recognizes funding Agencies and Companies who have funded First of a kind (FOAK), Innovative and large RE, EV and other Clean Energy Projects as well as those funded break-through technologies that have the potential to drive energy transition.</td>
-            </tr>
+    <!-- Category 7 -->
+    <tr class="row-alt">
+        <td style="text-align:center;"><b>7</b></td>
+        <td>Woman in Energy and Utilities</td>
+        <td>
+            <p>Outstanding Women personalities in the energy and utility sector who have made significant contribution to the growth of the sector</p>
+            <p><b>(Women Entrepreneurs are encouraged to apply for ISGF Innovation Awards)</b></p>
+        </td>
+        <td>This award category will recognize individual women who have made substantial contributions and excelled in the Smart Technology or areas covered under any of the above mentioned award categories, i.e. power / utility sector / technology provider / implementing agency; OR has built a successful start-up that is growing successfully; OR Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector.</td>
+    </tr>
 
-            <!-- Category 8 -->
-            <tr>
-                <td style="text-align:center;"><b>8</b></td>
-                <td>Waste-to-Energy, including Waste to CNG, Waste to Biogas Projects (W2E)</td>
-                <td>Municipalities and Project Developers who have successfully implemented W2E projects are eligible to apply</td>
-                <td>This Award Category recognizes the Successful and Sustainable W2E projects that are completed and running for a minimum period of 1 year as of <b>31 December 2025</b></td>
-            </tr>
-
-            <!-- Category 9 -->
-            <tr class="row-alt">
-                <td style="text-align:center;"><b>9</b></td>
-                <td>Woman in Energy and Utilities</td>
-                <td>
-                    <p>Outstanding Women personalities in the energy and utility sector who have made significant contribution to the growth of the sector</p>
-                    <p><b>(Women Entrepreneurs are encouraged to apply for ISGF Innovation Awards)</b></p>
-                </td>
-                <td>This award category will recognize individual women who have made substantial contributions in the areas covered under any of the above 9 award categories. i.e. power / utility sector/ technology provider/ implementing agency; OR has built a successful start-up that is growing successfully; OR Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector.</td>
-            </tr>
-
-            <!-- Category 10 -->
-            <tr>
-                <td style="text-align:center;"><b>10</b></td>
-                <td>ISGF President's Award for the Best Contribution towards Energy Transition in India</td>
-                <td>Awardees will be selected by ISGF, nominations not required</td>
-                <td>
-                    <p>This Category recognizes the Best Contributions towards growth of Smart Grids, Clean Energy and Electric Mobility in India and Winners are chosen by ISGF</p>
-                    <p><b>Please note: Nominations are not invited for this category</b></p>
-                </td>
-            </tr>
-        </table>
+    <!-- Category 8 -->
+    <tr>
+        <td style="text-align:center;"><b>8</b></td>
+        <td>ISGF President's Award for the Best Contribution towards Energy Transition in India</td>
+        <td>Awardees will be selected by ISGF, nominations not required</td>
+        <td>
+            <p>This Category recognizes the Best Contributions towards growth of Smart Grids, Clean Energy and Electric Mobility in India and Winners are chosen by ISGF</p>
+            <p><b>Please note: Nominations are not invited for this category</b></p>
+        </td>
+    </tr>
+</table>
       </div>
     </div>
   </div>
@@ -729,7 +704,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
     </h2>
     <div id="flush-collapseselection" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-        <P STYLE="margin-bottom: 0in"><IMG SRC="/images/2026/selection5.png?id=1"></P>
+        <P STYLE="margin-bottom: 0in"><IMG SRC="/images/2026/selection5.png?id=2"></P>
         <P STYLE="margin-bottom: 0in"><BR></P>
       </div>
     </div>
