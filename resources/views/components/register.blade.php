@@ -306,7 +306,7 @@
                         </tr>
                         <tr>
                             <td><strong>5 Day Conference and Exhibition (06 - 10 April 2027)</strong><br>
-                                Package Including Conference, Exhibition, Special Workshops ISGF Innovation Awards with Gala Dinner and Technical Tours
+                                <strong>Package Including Conference, Exhibition, Special Workshops ISGF Innovation Awards with Gala Dinner and Technical Tours</strong>
                             </td>
                             <td><strong>45,000*</strong></td>
                             <td><strong>450*</strong></td>
@@ -315,12 +315,12 @@
                                 <ul class="package-list">
                                     <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
                                     <li><strong>Access to TESS 2027 Conference and Exhibition for 3 Days (07 - 09 April 2027)</strong></li>
-                                    <li>High tea and coffee throughout the conference day</li>
-                                    <li>1 coupon of the amazing lunch buffet spread for 4 days (06 - 09 April 2027)</li>
-                                    <li>Exclusively designed Delegate Bag</li>
-                                    <li>Special access to ISGF Innovation Awards Night on <strong>09 April 2027</strong></li>
-                                    <li>Gala Dinner for 1 Pax on <strong>09 April 2027</strong></li>
-                                    <li>Access to Technical Tours on <strong>10 April 2027</strong></li>
+                                    <li><strong>High tea and coffee throughout the conference day</strong></li>
+                                    <li><strong>1 coupon of the amazing lunch buffet spread for 4 days (06 - 09 April 2027)</strong></li>
+                                    <li><strong>Exclusively designed Delegate Bag</strong></li>
+                                    <li><strong>Special access to ISGF Innovation Awards Night on 09 April 2027</strong></li>
+                                    <li><strong>Gala Dinner for 1 Pax on 09 April 2027</strong></li>
+                                    <li><strong>Access to Technical Tours on 10 April 2027</strong></li>
                                 </ul>
                             </td>
                         </tr>
@@ -340,7 +340,7 @@
                             <td><strong>ISGF Innovation Awards 2027 with Gala Dinner Pass (09 April 2027)</strong></td>
                             <td><strong>10,000*</strong></td>
                             <td><strong>150*</strong></td>
-                            <td><strong>10000</strong></td>
+                            <td><strong>10,000*</strong></td>
                             <td>
                                 <ul class="package-list">
                                     <li><strong>Access to ISGF Innovation Awards Night and Gala Dinner for 1 Pax on 09 April 2027</strong></li>
@@ -355,15 +355,18 @@
                             <td>
                                 <ul class="package-list">
                                     <li><strong>Package including Master Classes, Conference, Exhibition and Special Workshops.</strong></li>
-                                    <li>Email your valid ID card to avail the offer at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></li>
-                                    <li>Access to TESS 2027 Conference and Exhibition for 3 days <strong>(07 - 09 April 2027)</strong></li>
-                                    <li>High tea and coffee throughout the conference day</li>
-                                    <li>1 coupon of the amazing lunch buffet spread for 5 days (05 - 09 April 2027)</li>
+                                    <li><strong>Email your valid ID card to avail the offer at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></strong></li>
+                                    <li><strong>Access to co-hosted IRED event on 05 April 2027</strong></li>
+                                    <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
+                                    <li><strong>Access to Master Classes on 06 April 2027</strong></li>
+                                    <li><strong>Access to TESS 2027 Conference and Exhibition for 3 Days (07 - 09 April 2027)</strong></li>
+                                    <li><strong>High tea and coffee throughout the conference day</strong></li>
+                                    <li><strong>1 coupon of the amazing lunch buffet spread for 5 days (05 - 09 April 2027)</strong></li>
                                 </ul>
                                 <p class="note" style="margin-top: 10px;">
                                     <strong>Please note:</strong> Only valid students with valid ID card will be allowed to get this pass. 
-                                    ISGF holds the right to cancel the registration in case invalid ID is found. 
-                                    Student id card shall be emailed at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a> in advance.
+                                    <strong>ISGF holds the right to cancel the registration in case invalid ID is found.
+                                    Student id card shall be emailed at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a><br>in advance.</strong>
                                 </p>
                             </td>
                         </tr>
@@ -381,7 +384,8 @@
                     </tbody>
                 </table>
             </div>
-         <p class="note"><strong>Note:</strong> Applicable taxes (18% GST) extra. <br>
+         <p class="note"><strong>Note:</strong><br>
+         * Applicable taxes (18% GST) extra. <br>
          ** Bonafide Students Pass will be provided only after verification of IDs and it does not include Gala Dinner Pass. <br>
          *** Utilities Complimentary Pass will be provided only after verification of ID. <br>
          For Group Discounts, please write us at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></p>   
