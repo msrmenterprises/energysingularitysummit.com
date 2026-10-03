@@ -52,7 +52,7 @@ a:hover {
       <link href="/css/style.css" rel="stylesheet">
       <link href="/css/slider.css" rel="stylesheet"> -->
       <title>The Energy Singularity Summit</title>
-	  <link rel="shortcut icon" href="/public/images/ISUW Logo 2022.jpg" type="/public/images/ISUW Logo 2022.jpg"/>
+	  <link rel="shortcut icon" href="/public/images/tess_thumbnail.jpeg" type="image/jpeg"/>
     </head>
     <body class="antialiased">
        
