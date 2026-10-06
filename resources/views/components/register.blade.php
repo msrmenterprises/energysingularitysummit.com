@@ -349,13 +349,11 @@
                         </tr>
                         <tr>
                             <td><strong>Bonafide Indian Students Pass for Conference & Exhibition** (5-9 April 2027)</strong></td>
-                            <td><strong>10,000</strong></td>
+                            <td><strong>10,000*</strong></td>
                             <td><strong>N/A</strong></td>
                             <td><strong>—</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>Package including Master Classes, Conference, Exhibition and Special Workshops.</strong></li>
-                                    <li><strong>Email your valid ID card to avail the offer at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a></strong></li>
                                     <li><strong>Access to co-hosted IRED event on 05 April 2027</strong></li>
                                     <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
                                     <li><strong>Access to Master Classes on 06 April 2027</strong></li>
@@ -364,8 +362,8 @@
                                     <li><strong>1 coupon of the amazing lunch buffet spread for 5 days (05 - 09 April 2027)</strong></li>
                                 </ul>
                                 <p class="note" style="margin-top: 10px;">
-                                    <strong>Please note:</strong> Only valid students with valid ID card will be allowed to get this pass. 
-                                    <strong>ISGF holds the right to cancel the registration in case invalid ID is found.
+                                    <strong>Please note: Only valid students with valid ID card will be allowed to get this pass.
+                                    ISGF holds the right to cancel the registration in case invalid ID is found.
                                     Student id card shall be emailed at <a href="mailto:info@energysingularitysummit.com">info@energysingularitysummit.com</a><br>in advance.</strong>
                                 </p>
                             </td>
