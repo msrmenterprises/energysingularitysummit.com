@@ -267,7 +267,7 @@
 
 	<p></p>
 <section>
-            <h2>Delegate Registration Categories & Fees</h2>
+            <h2>Delegate Registration Categories and Fees</h2>
     
             
             <div class="table-container">
@@ -291,8 +291,8 @@
                             <td><strong>Complimentary***</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>Access to co-hosted IRED event on 05 April 2027</strong></li>
-                                    <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
+                                    <li><strong>Access to Special Workshop on 05 April 2027</strong></li>
+                                    <li><strong>Access to co-hosted IRED and WE3 Asia events on 06 April 2027</strong></li>
                                     <li><strong>Access to Master Classes on 06 April 2027</strong></li>
                                     <li><strong>Access to TESS 2027 Conference and Exhibition for 3 Days (07 - 09 April 2027)</strong></li>
                                     <li><strong>High tea and coffee throughout the conference day</strong></li>
@@ -313,7 +313,7 @@
                             <td><strong>Complimentary***</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
+                                    <li><strong>Access to co-hosted IRED and WE3 Asia events on 06 April 2027</strong></li>
                                     <li><strong>Access to TESS 2027 Conference and Exhibition for 3 Days (07 - 09 April 2027)</strong></li>
                                     <li><strong>High tea and coffee throughout the conference day</strong></li>
                                     <li><strong>1 coupon of the amazing lunch buffet spread for 4 days (06 - 09 April 2027)</strong></li>
@@ -339,7 +339,7 @@
                         <tr>
                             <td><strong>ISGF Innovation Awards 2027 with Gala Dinner Pass (09 April 2027)</strong></td>
                             <td><strong>10,000*</strong></td>
-                            <td><strong>150*</strong></td>
+                            <td><strong>100*</strong></td>
                             <td><strong>10,000*</strong></td>
                             <td>
                                 <ul class="package-list">
@@ -349,12 +349,12 @@
                         </tr>
                         <tr>
                             <td><strong>Bonafide Indian Students Pass for Conference & Exhibition** (5-9 April 2027)</strong></td>
-                            <td><strong>10,000*</strong></td>
+                            <td><strong>10,000</strong></td>
                             <td><strong>N/A</strong></td>
                             <td><strong>—</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>Access to co-hosted IRED event on 05 April 2027</strong></li>
+                                    <li><strong>Access to co-hosted IRED event on 06 April 2027</strong></li>
                                     <li><strong>Access to co-hosted WE3 Asia event on 06 April 2027</strong></li>
                                     <li><strong>Access to Master Classes on 06 April 2027</strong></li>
                                     <li><strong>Access to TESS 2027 Conference and Exhibition for 3 Days (07 - 09 April 2027)</strong></li>
