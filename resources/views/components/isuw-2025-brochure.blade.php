@@ -13,7 +13,7 @@
 	</div>
 	
 	  <p style="text-align:center; font-size:16px;"><a href="/images/2026/TheEnergySingularitySummit2027TESSBrochure_2026v1.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
-<iframe src="https://www.energysingularitysummit.com/public/images/TheEnergySingularitySummit2027TESSBrochure_2026v1.pdf?id=2" height="600" width="150" title="Iframe Example" style="
+<iframe src="https://www.energysingularitysummit.com/images/2026/TheEnergySingularitySummit2027TESSBrochure_2026v1.pdf?id=2" height="600" width="150" title="Iframe Example" style="
     width: 800px;
     text-align: center;
 
