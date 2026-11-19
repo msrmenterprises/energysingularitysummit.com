@@ -11,7 +11,7 @@
 
 <h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2026</h4> 
 <div class="row justify-content-center">
-<div class="wp-block-image" style="text-align: center;"><figure class="aligncenter"><a href="images/2026/keyhighlights26.jpg"><img class="img-fluid" src="images/2026/keyhighlights26.jpg" style="width:840px" alt="" /></a></figure></div>
+<div class="wp-block-image" style="text-align: center;"><figure class="aligncenter"><a href="images/2026/keyhighlights26.jpg?id=1"><img class="img-fluid" src="images/2026/keyhighlights26.jpg" style="width:840px" alt="" /></a></figure></div>
 </div>
 
 	<h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2025</h4> 
