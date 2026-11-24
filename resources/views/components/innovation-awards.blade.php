@@ -209,7 +209,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
 <P class="justify-text">ISGF Innovation Awards instituted in 2017 is aimed to recognize and to celebrate organizations (utilities and technology companies), projects, products and personalities that have set a new benchmark in Electricity, Gas, Water and E-Mobility domains. Till 2026, ISGF had selected and recognized more than 423 such organizations/ individuals.</P>
 <p class="justify-text"><b>The 11th Edition of ISGF Innovation Awards 2027 will be conferred to the Winners on 09 April 2027.</b></p>
 <P class="justify-text"><b>India Smart Grid Forum (ISGF) invites Public and Private Utilities, Urban Local Bodies, Technology Companies, EPC Contractors, Start-ups, Incubators, Researchers, Municipalities, Funding Agencies and Academia to submit their nominations.</b></P>
-<p class="justify-text">In year 2026, 235 projects submitted the nominations and out of which 55 projects were conferred with ISGF Innovation Award and 8 projects were awarded with Certificate of Merit. List of winners will be available at following link: <a href="https://isuw.in/winners-innovation-awards-2026" target="_blank">https://isuw.in/winners-innovation-awards-2026</a></p>
+<p class="justify-text">In year 2026, 235 projects submitted the nominations and out of which 55 projects were conferred with ISGF Innovation Award and 8 projects were awarded with Certificate of Merit. List of winners will be available at following link: <a href="{{ route('winners-innovation-awards-2026') }}" target="_blank" rel="noopener noreferrer">{{ route('winners-innovation-awards-2026') }}</a></p>
 
 <h4 class="award-section-title"><strong>Refer important links below for further details:</strong></h4>
 <p></p>
@@ -236,23 +236,23 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </h2>
             </tr>
             <tr>
                 <td><b>2026</b></td>
-                <td><a href="https://isuw.in/winners-innovation-awards-2026" target="_blank" rel="noopener noreferrer">https://isuw.in/isgf-innovation-awards-2026</a></td>
+                <td><a href="{{ route('winners-innovation-awards-2026') }}" target="_blank" rel="noopener noreferrer">{{ route('winners-innovation-awards-2026') }}</a></td>
             </tr>
             <tr>
                 <td><b>2025</b></td>
-                <td><a href="https://isuw.in/winners-innovation-awards-2025" target="_blank" rel="noopener noreferrer">https://isuw.in/isgf-innovation-awards-2025</a></td>
+                <td><a href="{{ route('winners-innovation-awards-2025') }}" target="_blank" rel="noopener noreferrer">{{ route('winners-innovation-awards-2025') }}</a></td>
             </tr>
             <tr>
                 <td><b>2024</b></td>
-                <td><a href="https://isuw.in/winners-innovation-awards-2024" target="_blank" rel="noopener noreferrer">https://isuw.in/isgf-innovation-awards-2024</a></td>
+                <td><a href="{{ route('winners-innovation-awards-2024') }}" target="_blank" rel="noopener noreferrer">{{ route('winners-innovation-awards-2024') }}</a></td>
             </tr>
             <tr>
                 <td><b>2023</b></td>
-                <td><a href="https://isuw.in/winners-innovation-awards-2023" target="_blank" rel="noopener noreferrer">https://isuw.in/isgf-innovation-awards-2023</a></td>
+                <td><a href="{{ route('winners-innovation-awards-2023') }}" target="_blank" rel="noopener noreferrer">{{ route('winners-innovation-awards-2023') }}</a></td>
             </tr>
             <tr>
                 <td><b>2022</b></td>
-                <td><a href="http://www.isuw.in/winners-innovation-awards-2022/" target="_blank" rel="noopener noreferrer">http://www.isuw.in/isgf-innovation-awards-2022/</a></td>
+                <td><a href="{{ route('winners-innovation-awards-2022') }}" target="_blank" rel="noopener noreferrer">{{ route('winners-innovation-awards-2022') }}</a></td>
             </tr>
             <tr>
                 <td><b>2021</b></td>

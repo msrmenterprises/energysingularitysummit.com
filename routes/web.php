@@ -298,19 +298,19 @@ Route::get('/confirmed-exhibitors-2021', function () {
 });
  Route::get('/winners-innovation-awards-2023', function () {
      return view('/components/winners-innovation-awards-2023');
-});
+})->name('winners-innovation-awards-2023');
 Route::get('/winners-innovation-awards-2024', function () {
      return view('/components/winners-innovation-awards-2024');
-});
+})->name('winners-innovation-awards-2024');
 Route::get('/winners-innovation-awards-2025', function () {
      return view('/components/winners-innovation-awards-2025');
-});
+})->name('winners-innovation-awards-2025');
 Route::get('/winners-innovation-awards-2026', function () {
      return view('/components/winners-innovation-awards-2026');
-});
+})->name('winners-innovation-awards-2026');
  Route::get('/winners-innovation-awards-2022', function () {
      return view('/components/winners-innovation-awards-2022');
-});
+})->name('winners-innovation-awards-2022');
 Route::get('/enquiry', [ContactUsFormController::class, 'createForm']);
 Route::post('/enquiry', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
 Route::get('/login',[LoginController::class,'index']);
