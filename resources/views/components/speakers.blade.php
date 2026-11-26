@@ -1,5 +1,42 @@
 @extends('master')
 @section('content')
+<style>
+   .speakers-grid .speaker-col {
+      display: flex;
+      margin-bottom: 24px;
+   }
+
+   .speakers-grid .sprk-box {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid #e6e6e6;
+   }
+
+   .speakers-grid .sprk-box img {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 3 / 4;
+      object-fit: cover;
+      object-position: top center;
+      border-radius: 10px;
+      margin-bottom: 12px;
+   }
+
+   .speakers-grid .sprk-box h5 {
+      min-height: 56px;
+      margin-bottom: 10px;
+   }
+
+   .speakers-grid .sprk-box p:first-of-type {
+      min-height: 96px;
+   }
+
+   .speakers-grid .sprk-box p:last-child {
+      margin-top: auto;
+   }
+</style>
 <section class="page-section pt-pb-100 bg-white">
          <div class="container">
             		
@@ -10,10 +47,10 @@
 	</div> 
 			   
            <p></p>
-            <div class="row justify-content-left ">
+            <div class="row justify-content-left speakers-grid">
 			@foreach ($speakersr24 as $speaker24)
 			@if ($speaker24->isActive==1)
-               <div class="col-lg-3 ">
+               <div class="col-sm-6 col-lg-3 speaker-col">
 		      
                   <div class="sprk-box sprk-detail">
                      <img src="{{$speaker24->imageUrl}}" class="img-fluid " alt="{{$speaker24->imageAlt}}">
