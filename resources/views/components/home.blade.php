@@ -171,11 +171,11 @@
     border: 1px solid #1a4f82;
     border-radius: 10px;
     color: #1a4f82;
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 1;
-    padding: 11px 26px;
-    margin-top: 26px;
+    padding: 10px 22px;
+    margin-top: 22px;
     background: #fff;
     text-decoration: none;
     position: relative;
@@ -246,8 +246,8 @@
    }
 
    .cohosted-read-details {
-      font-size: 24px;
-      padding: 10px 20px;
+      font-size: 18px;
+      padding: 9px 18px;
    }
 
     .logo-card {
@@ -283,8 +283,8 @@
    }
 
    .cohosted-read-details {
-      font-size: 20px;
-      padding: 10px 18px;
+      font-size: 16px;
+      padding: 8px 16px;
    }
 
     .logo-card {
