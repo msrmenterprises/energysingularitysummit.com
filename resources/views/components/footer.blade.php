@@ -120,7 +120,7 @@ color:#EF7B00;
                <li><a href="#">2023</a></li>
                <li><a href="https://isuw.in/2024/" target="_blank" rel="noopener noreferrer">2024</a></li>
                <li><a href="https://isuw.in/2025/" target="_blank" rel="noopener noreferrer">2025</a></li>
-               <li><a href="https://isuw.in/2026/" target="_blank" rel="noopener noreferrer">2026</a></li>
+               <li><a href="/2026" target="_blank" rel="noopener noreferrer">2026</a></li>
             </ul>
 			<br>
             <ul>
