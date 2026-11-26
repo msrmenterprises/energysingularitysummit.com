@@ -5,7 +5,7 @@
     <div class="row justify-content-left">
         <p></p>
         <div class="k_cheading">
-            <h1>WE3 ASIA <span class="k_greencolor">2026</span></h1>
+            <h1>WE3 ASIA <span class="k_greencolor">2027</span></h1>
             <h4 style="text-align:center;">09 – 10 MARCH 2026</h4>
             <img src="/public/uploads/images/kborder_bottom.png" alt="" class="img-fluid">
             <br/>
@@ -14,7 +14,7 @@
             <img src="/public/uploads/images/Bannerwebasia.jpg?id=1" alt="" class="img-fluid">
             <br/>
             <div class="banner-text" style="margin-top:40px;font-size:17px">
-                <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
+                <p><strong>WE3 Asia 2027:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
                 <p><strong>ISUW 2026:</strong> March 10–13, 2026, The Lalit, New Delhi, India</p>
             </div>
         </div>
@@ -23,15 +23,15 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="innerHeadingAbout">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#innerCollapseAbout" aria-expanded="false" aria-controls="innerCollapseAbout">
-                        ABOUT WE3 ASIA 2026
+                        ABOUT WE3 ASIA 2027
                     </button>
                 </h2>
                 <div id="innerCollapseAbout" class="accordion-collapse collapse" aria-labelledby="innerHeadingAbout" data-bs-parent="#innerAccordionWE3">
                     <div class="accordion-body">
-                        <p>ISGF is pleased to invite you to WE3 Asia 2026, jointly hosted with SEW.AI as part of ISUW 2026, on 9 – 10 March 2026 at The Lalit Hotel, New Delhi.</p>
+                        <p>ISGF is pleased to invite you to WE3 Asia 2027, jointly hosted with SEW.AI as part of ISUW 2026, on 9 – 10 March 2026 at The Lalit Hotel, New Delhi.</p>
                         <p>WE3 Asia is a leadership forum focused on Vertical AI, digital transformation, customer and workforce experience, grid intelligence, and the emerging utility models shaping Asia's next decade. The Summit brings together 100+ CEOs, CIOs, CCOs, DISCOM leaders, regulators, policymakers, and technology partners who are driving the shift toward connected, AI-powered utility ecosystems across the region.</p>
                         <p>This year's forum places People + AI at its centre, uniting visionary leaders and innovators redefining how Asia powers, serves, and sustains its communities. From modernising customer and workforce experience to advancing DER integration, grid intelligence, and platform-driven operations, WE3 Asia delivers practical insights and actionable pathways tailored to the rapidly evolving needs of Asian utilities.</p>
-                        <p><strong>RSVP for WE3 Asia 2026 at following link:</strong> <a href="https://we3summit.com/asia2026" target="_blank">https://we3summit.com/asia2026</a></p>
+                        <p><strong>RSVP for WE3 Asia 2027 at following link:</strong> <a href="https://we3summit.com/asia2026" target="_blank">https://we3summit.com/asia2026</a></p>
                     </div>
                 </div>
             </div>
@@ -79,21 +79,21 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="innerHeadingRegister">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#innerCollapseRegister" aria-expanded="false" aria-controls="#innerCollapseRegister">
-                        REGISTER FOR WE3 ASIA 2026
+                        REGISTER FOR WE3 ASIA 2027
                     </button>
                 </h2>
                 <div id="innerCollapseRegister" class="accordion-collapse collapse" aria-labelledby="innerHeadingRegister" data-bs-parent="#innerAccordionWE3">
                     <div class="accordion-body">
-                        <p><strong>RSVP for WE3 Asia 2026:</strong> <a href="https://we3summit.com/asia2026" target="_blank">https://we3summit.com/asia2026</a></p>
+                        <p><strong>RSVP for WE3 Asia 2027:</strong> <a href="https://we3summit.com/asia2026" target="_blank">https://we3summit.com/asia2026</a></p>
                         <p>For registration support, speaking interest, or guidance on sessions, please email at <a href="mailto:marketing@sew.ai">marketing@sew.ai</a>.</p>
-                        <p>ISGF looks forward to supporting a robust, practical, and inclusive conversation at <strong>WE3 Asia 2026</strong>.</p>
+                        <p>ISGF looks forward to supporting a robust, practical, and inclusive conversation at <strong>WE3 Asia 2027</strong>.</p>
                     </div>
                 </div>
             </div>
 
         </div>
         <div class="visit-website" style="margin-top:18px;text-align:center;font-size:17px;font-weight:bold">
-            <p>Visit WE3 ASIA 2026 website for more information such as Event Schedule, Session Themes and Key Speakers at following link: <a href="https://we3summit.com/asia2026" target="_blank">https://we3summit.com/asia2026</a></p>
+            <p>Visit WE3 ASIA 2027 website for more information such as Event Schedule, Session Themes and Key Speakers at following link: <a href="https://we3summit.com/asia2026" target="_blank">https://we3summit.com/asia2026</a></p>
         </div>
         <p></p>
         <p></p>
