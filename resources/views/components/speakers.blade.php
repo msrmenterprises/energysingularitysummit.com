@@ -3,7 +3,6 @@
 <style>
    .speakers-grid .speaker-col {
       display: flex;
-      margin-bottom: 24px;
    }
 
    .speakers-grid .sprk-box {
@@ -12,16 +11,16 @@
       display: flex;
       flex-direction: column;
       border: 1px solid #e6e6e6;
+      padding: 20px;
    }
 
    .speakers-grid .sprk-box img {
       width: 100%;
-      height: auto;
-      aspect-ratio: 3 / 4;
+      height: 300px;
       object-fit: cover;
       object-position: top center;
       border-radius: 10px;
-      margin-bottom: 12px;
+      margin-bottom: 16px;
    }
 
    .speakers-grid .sprk-box h5 {
@@ -36,6 +35,12 @@
    .speakers-grid .sprk-box p:last-child {
       margin-top: auto;
    }
+
+   @media (max-width: 767px) {
+      .speakers-grid .sprk-box img {
+         height: 260px;
+      }
+   }
 </style>
 <section class="page-section pt-pb-100 bg-white">
          <div class="container">
@@ -47,7 +52,7 @@
 	</div> 
 			   
            <p></p>
-            <div class="row justify-content-left speakers-grid">
+            <div class="row justify-content-left speakers-grid g-4">
 			@foreach ($speakersr24 as $speaker24)
 			@if ($speaker24->isActive==1)
                <div class="col-sm-6 col-lg-3 speaker-col">
