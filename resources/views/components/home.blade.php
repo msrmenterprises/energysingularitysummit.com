@@ -102,6 +102,83 @@
    margin: 0;
 }
 
+.cohosted-events {
+    margin: 25px 0 35px;
+}
+
+.cohosted-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+}
+
+.cohosted-main-logo,
+.cohosted-logo-tile {
+    border: 2px solid #002446;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    padding: 14px 16px;
+}
+
+.cohosted-main-logo {
+    min-height: 100px;
+    font-size: 37px;
+    font-weight: 700;
+    color: #000;
+    line-height: 1;
+}
+
+.cohosted-main-logo span {
+    font-size: 0.55em;
+    margin-left: 8px;
+    font-weight: 600;
+}
+
+.cohosted-divider {
+    border-top: 1px solid #002446;
+    margin: 20px 0 22px;
+}
+
+.cohosted-sub-logos {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+}
+
+.cohosted-logo-tile {
+    min-height: 110px;
+}
+
+.cohosted-logo-tile img {
+    max-width: 100%;
+    max-height: 70px;
+    object-fit: contain;
+}
+
+.cohosted-read-details {
+    display: inline-block;
+    border: 2px solid #002446;
+    border-radius: 2px;
+    color: #000;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    padding: 11px 26px;
+    margin-top: 26px;
+    background: #fff;
+    text-decoration: none;
+    position: relative;
+    z-index: 2;
+}
+
+.cohosted-read-details:hover {
+    color: #000;
+    text-decoration: none;
+}
+
    .isuw-speark .responsive .sprk-box {
       min-height: 360px;
       display: flex !important;
@@ -148,6 +225,20 @@
       grid-template-columns: repeat(3, 1fr);
    }
 
+   .cohosted-grid {
+      gap: 20px;
+   }
+
+   .cohosted-main-logo {
+      font-size: 30px;
+      min-height: 88px;
+   }
+
+   .cohosted-read-details {
+      font-size: 24px;
+      padding: 10px 20px;
+   }
+
     .logo-card {
         min-height: 140px;
     }
@@ -169,6 +260,21 @@
    .partners-grid.grid-5 {
         grid-template-columns: 1fr;
     }
+
+   .cohosted-grid,
+   .cohosted-sub-logos {
+      grid-template-columns: 1fr;
+      gap: 15px;
+   }
+
+   .cohosted-main-logo {
+      font-size: 26px;
+   }
+
+   .cohosted-read-details {
+      font-size: 20px;
+      padding: 10px 18px;
+   }
 
     .logo-card {
         min-height: 120px;
@@ -309,6 +415,45 @@
                                     Awards
                                  </h3>
                               </a>
+                           </div>
+                        </div>
+                     </div>
+                     <h2 class="mt-4">Co-Hosted Events</h2>
+                     <div class="cohosted-events">
+                        <div class="cohosted-grid">
+                           <div class="cohosted-event-card">
+                              <div class="cohosted-main-logo">
+                                 IRED <span>2027</span>
+                              </div>
+                              <div class="cohosted-divider"></div>
+                              <div class="cohosted-sub-logos">
+                                 <div class="cohosted-logo-tile">
+                                    <img src="public/uploads/organizations/DERlab.jpg" alt="DERlab">
+                                 </div>
+                                 <div class="cohosted-logo-tile">
+                                    <img src="images/ISGF.jpg" alt="ISGF">
+                                 </div>
+                              </div>
+                              <div class="text-center">
+                                 <a href="/ired-2027" target="_blank" class="cohosted-read-details">Read Details</a>
+                              </div>
+                           </div>
+                           <div class="cohosted-event-card">
+                              <div class="cohosted-main-logo">
+                                 WE3 Asia <span>2027</span>
+                              </div>
+                              <div class="cohosted-divider"></div>
+                              <div class="cohosted-sub-logos">
+                                 <div class="cohosted-logo-tile">
+                                    <img src="images/SEW-Logo.png" alt="SEW">
+                                 </div>
+                                 <div class="cohosted-logo-tile">
+                                    <img src="images/ISGF.jpg" alt="ISGF">
+                                 </div>
+                              </div>
+                              <div class="text-center">
+                                 <a href="/WE3ASIA" target="_blank" class="cohosted-read-details">Read Details</a>
+                              </div>
                            </div>
                         </div>
                      </div>
