@@ -106,6 +106,13 @@
     margin: 25px 0 35px;
 }
 
+.cohosted-event-card {
+    background: #f8fbff;
+    border: 1px solid #e3edf8;
+    border-radius: 14px;
+    padding: 18px;
+}
+
 .cohosted-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -114,31 +121,32 @@
 
 .cohosted-main-logo,
 .cohosted-logo-tile {
-    border: 2px solid #002446;
+    border: 1px solid #d7e5f3;
     background: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 2px;
+    border-radius: 10px;
     padding: 14px 16px;
+    box-shadow: 0 8px 18px rgba(13, 41, 79, 0.06);
 }
 
 .cohosted-main-logo {
     min-height: 100px;
-    font-size: 37px;
+    font-size: 34px;
     font-weight: 700;
-    color: #000;
+    color: #133a63;
     line-height: 1;
 }
 
 .cohosted-main-logo span {
     font-size: 0.55em;
     margin-left: 8px;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .cohosted-divider {
-    border-top: 1px solid #002446;
+    border-top: 1px solid #d7e5f3;
     margin: 20px 0 22px;
 }
 
@@ -160,10 +168,10 @@
 
 .cohosted-read-details {
     display: inline-block;
-    border: 2px solid #002446;
-    border-radius: 2px;
-    color: #000;
-    font-size: 30px;
+    border: 1px solid #1a4f82;
+    border-radius: 10px;
+    color: #1a4f82;
+    font-size: 28px;
     font-weight: 700;
     line-height: 1;
     padding: 11px 26px;
@@ -172,10 +180,13 @@
     text-decoration: none;
     position: relative;
     z-index: 2;
+    transition: all 0.25s ease;
 }
 
 .cohosted-read-details:hover {
-    color: #000;
+    color: #fff;
+    background: #1a4f82;
+    border-color: #1a4f82;
     text-decoration: none;
 }
 
