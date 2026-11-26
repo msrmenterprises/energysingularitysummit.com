@@ -786,6 +786,7 @@
                         @endforeach
                         </div>
                  @endforeach-->
+                 @php($pimage = $pimage ?? (object) ['altText' => ''])
                       <!--<div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
