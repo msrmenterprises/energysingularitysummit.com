@@ -59,6 +59,7 @@
                        <li><a href="/master-classes" target="_blank">Master Classes</a></li>
                        <!-- <li><a href="/raid-olympiad" target="_blank">Raid Olympiad</a></li> -->
                        <li><a href="/cultural-tours" target="_blank">Cultural Tours</a></li>
+                       <li><a href="/ired-2027" target="_blank">IRED 2027 </a></li>
                        <li><a href="/WE3ASIA" target="_blank">WE3 Asia 2026 </a></li>
                   </ul>
                </li>

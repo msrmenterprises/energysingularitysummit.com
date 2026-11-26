@@ -59,6 +59,9 @@ Route::get('/admin', function () {
  Route::get('/WE3ASIA', function () {
       return view('/components/webasia');
  });
+ Route::get('/ired-2027', function () {
+      return view('/components/ired-2027');
+ });
   Route::get('/brochure', function () {
       return view('/components/brochure');
  });
