@@ -4,18 +4,36 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Database\QueryException;
+use Illuminate\Support\Facades\Log;
 class homeController extends Controller
 {
     public function show()
     {
-      $banners = DB::table('banners')->get();
-      $speakersr24 = DB::table('speakers2025')->get();
-      $exhibitors = DB::table('exhibitors2022')->get();
-      $utilitycategory = DB::table('utilitycategory2022')->get();
-      $utilityimages = DB::table('utilityimages')->get();
-      $partnercategory = DB::table('partnerscategory')->get();
-      $partnerimages = DB::table('partnerimages')->get();
-      $testimonial = DB::table('testimonial')->get();
+      $banners = collect();
+      $speakersr24 = collect();
+      $exhibitors = collect();
+      $utilitycategory = collect();
+      $utilityimages = collect();
+      $partnercategory = collect();
+      $partnerimages = collect();
+      $testimonial = collect();
+
+      try {
+          $banners = DB::table('banners')->get();
+          $speakersr24 = DB::table('speakers2025')->get();
+          $exhibitors = DB::table('exhibitors2022')->get();
+          $utilitycategory = DB::table('utilitycategory2022')->get();
+          $utilityimages = DB::table('utilityimages')->get();
+          $partnercategory = DB::table('partnerscategory')->get();
+          $partnerimages = DB::table('partnerimages')->get();
+          $testimonial = DB::table('testimonial')->get();
+      } catch (QueryException $queryException) {
+          Log::error('Unable to load 2025 homepage data. Rendering page with fallback empty collections.', [
+              'message' => $queryException->getMessage(),
+          ]);
+      }
+
      return view('components.home',compact('banners','speakersr24','exhibitors','utilitycategory','utilityimages','partnercategory','partnerimages','testimonial'));
 
     }
