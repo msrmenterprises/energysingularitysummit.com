@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Database\QueryException;
 use Illuminate\Support\Facades\Log;
+use Throwable;
 class homeController extends Controller
 {
     public function show()
@@ -28,7 +29,7 @@ class homeController extends Controller
           $partnercategory = DB::table('partnerscategory')->get();
           $partnerimages = DB::table('partnerimages')->get();
           $testimonial = DB::table('testimonial')->get();
-      } catch (QueryException $queryException) {
+      } catch (QueryException|Throwable $queryException) {
           Log::error('Unable to load 2025 homepage data. Rendering page with fallback empty collections.', [
               'message' => $queryException->getMessage(),
           ]);
