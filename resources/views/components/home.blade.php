@@ -111,6 +111,8 @@
     border: 1px solid #e3edf8;
     border-radius: 14px;
     padding: 18px;
+    display: flex;
+    flex-direction: column;
 }
 
 .cohosted-grid {
@@ -133,21 +135,23 @@
 
 .cohosted-main-logo {
     min-height: 100px;
-    font-size: 34px;
-    font-weight: 700;
-    color: #133a63;
-    line-height: 1;
 }
 
-.cohosted-main-logo span {
-    font-size: 0.55em;
-    margin-left: 8px;
-    font-weight: 700;
+.cohosted-main-logo img {
+    max-width: 100%;
+    max-height: 70px;
+    object-fit: contain;
 }
 
 .cohosted-divider {
     border-top: 1px solid #d7e5f3;
-    margin: 20px 0 22px;
+    margin: 20px 0 12px;
+    min-height: 30px;
+    padding-top: 10px;
+    color: #29404f;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
 }
 
 .cohosted-sub-logos {
@@ -171,10 +175,10 @@
     border: 1px solid #1a4f82;
     border-radius: 10px;
     color: #1a4f82;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
     line-height: 1;
-    padding: 10px 22px;
+    padding: 9px 16px;
     margin-top: 22px;
     background: #fff;
     text-decoration: none;
@@ -241,13 +245,7 @@
    }
 
    .cohosted-main-logo {
-      font-size: 30px;
       min-height: 88px;
-   }
-
-   .cohosted-read-details {
-      font-size: 18px;
-      padding: 9px 18px;
    }
 
     .logo-card {
@@ -276,15 +274,6 @@
    .cohosted-sub-logos {
       grid-template-columns: 1fr;
       gap: 15px;
-   }
-
-   .cohosted-main-logo {
-      font-size: 26px;
-   }
-
-   .cohosted-read-details {
-      font-size: 16px;
-      padding: 8px 16px;
    }
 
     .logo-card {
@@ -433,37 +422,37 @@
                      <div class="cohosted-events">
                         <div class="cohosted-grid">
                            <div class="cohosted-event-card">
-                              <div class="cohosted-main-logo">
-                                 IRED <span>2027</span>
-                              </div>
-                              <div class="cohosted-divider"></div>
+                              <a class="cohosted-main-logo" href="https://ired-online.der-lab.net/" target="_blank" rel="noopener noreferrer">
+                                 <img src="/public/images/2026/cohosted-ired.png" alt="IRED">
+                              </a>
+                              <div class="cohosted-divider">Co-Organizers</div>
                               <div class="cohosted-sub-logos">
-                                 <div class="cohosted-logo-tile">
-                                    <img src="public/uploads/organizations/DERlab.jpg" alt="DERlab">
-                                 </div>
+                                 <a class="cohosted-logo-tile" href="https://der-lab.net/" target="_blank" rel="noopener noreferrer">
+                                    <img src="/public/images/2026/cohosted-derlab.jpeg" alt="DERlab">
+                                 </a>
                                  <div class="cohosted-logo-tile">
                                     <img src="images/ISGF.jpg" alt="ISGF">
                                  </div>
                               </div>
-                              <div class="text-center">
-                                 <a href="/ired-2027" target="_blank" class="cohosted-read-details">Read Details</a>
+                              <div class="text-center mt-auto">
+                                 <a href="/ired-2027" target="_blank" rel="noopener noreferrer" class="cohosted-read-details">Read Details</a>
                               </div>
                            </div>
                            <div class="cohosted-event-card">
-                              <div class="cohosted-main-logo">
-                                 WE3 Asia <span>2027</span>
-                              </div>
-                              <div class="cohosted-divider"></div>
+                              <a class="cohosted-main-logo" href="https://we3aisummit.com/asia2027" target="_blank" rel="noopener noreferrer">
+                                 <img src="/public/images/2026/cohosted-we3.png" alt="WE3 Asia">
+                              </a>
+                              <div class="cohosted-divider" aria-hidden="true"></div>
                               <div class="cohosted-sub-logos">
-                                 <div class="cohosted-logo-tile">
-                                    <img src="images/SEW-Logo.png" alt="SEW">
-                                 </div>
+                                 <a class="cohosted-logo-tile" href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
+                                    <img src="/public/images/2026/cohosted-sew.png" alt="SEW">
+                                 </a>
                                  <div class="cohosted-logo-tile">
                                     <img src="images/ISGF.jpg" alt="ISGF">
                                  </div>
                               </div>
-                              <div class="text-center">
-                                 <a href="/WE3ASIA" target="_blank" class="cohosted-read-details">Read Details</a>
+                              <div class="text-center mt-auto">
+                                 <a href="/WE3ASIA" target="_blank" rel="noopener noreferrer" class="cohosted-read-details">Read Details</a>
                               </div>
                            </div>
                         </div>
