@@ -175,7 +175,7 @@
     border: 1px solid #1a4f82;
     border-radius: 10px;
     color: #1a4f82;
-    font-size: 14px;
+    font-size: 11px;
     font-weight: 700;
     line-height: 1;
     padding: 8px 14px;
