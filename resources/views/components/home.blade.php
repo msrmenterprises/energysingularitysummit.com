@@ -175,10 +175,10 @@
     border: 1px solid #1a4f82;
     border-radius: 10px;
     color: #1a4f82;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     line-height: 1;
-    padding: 9px 16px;
+    padding: 8px 14px;
     margin-top: 22px;
     background: #fff;
     text-decoration: none;
@@ -442,7 +442,7 @@
                               <a class="cohosted-main-logo" href="https://we3aisummit.com/asia2027" target="_blank" rel="noopener noreferrer">
                                  <img src="/public/images/2026/cohosted-we3.png" alt="WE3 Asia">
                               </a>
-                              <div class="cohosted-divider" aria-hidden="true"></div>
+                              <div class="cohosted-divider">Co-Organizers</div>
                               <div class="cohosted-sub-logos">
                                  <a class="cohosted-logo-tile" href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
                                     <img src="/public/images/2026/cohosted-sew.png" alt="SEW">
